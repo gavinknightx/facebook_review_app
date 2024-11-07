@@ -30,7 +30,7 @@ A comprehensive tool for analyzing Facebook business profile reviews using AI-po
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/gavinknightx/facebook_review_analyzer.git
+   git clone https://github.com/gavinknightx/facebook_review_app.git
    cd facebook_review_app
    ```
 

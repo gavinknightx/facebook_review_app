@@ -1,0 +1,3586 @@
+{
+    "dialog": [
+        {
+            "review_text": "Best network coverage in Sri Lanka! Never had issues even in remote areas. Their 5G speed is incredible.",
+            "created_time": "2024-09-15T09:23:45+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Dialog's prepaid packages are reasonably priced and offer good value for money. Been using their services for over 5 years now.",
+            "created_time": "2023-08-12T14:30:22+0000"
+        },
+        {
+            "review_text": "Customer service needs improvement. Had to wait 30 minutes to speak with an agent regarding my bill.",
+            "created_time": "2024-08-28T11:15:33+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Love their MyDialog app! Makes it so easy to manage my account and buy packages.",
+            "created_time": "2024-08-19T16:45:12+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Network quality has deteriorated in Colombo area recently. Hope they fix it soon.",
+            "created_time": "2024-09-05T08:20:17+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Great international roaming packages. Used it during my trip to Singapore without any issues.",
+            "created_time": "2024-08-30T13:40:55+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "Their eSIM activation process was smooth and quick. Very convenient!",
+            "created_time": "2024-06-02T10:25:18+0000"
+        },
+        {
+            "review_text": "Data packages are bit expensive compared to other providers, but the speed and coverage make up for it.",
+            "created_time": "2023-09-22T17:55:33+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "Signal strength is excellent in Kandy area. Never drops calls.",
+            "created_time": "2024-08-10T12:10:45+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "The VAS services are annoying with automatic subscriptions. Please stop this practice!",
+            "created_time": "2023-12-15T09:33:27+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Recently switched to Dialog from another provider. The transition was seamless.",
+            "created_time": "2024-09-05T15:28:42+0000"
+        },
+        {
+            "review_text": "Their unlimited social media packages are great for young users like me.",
+            "created_time": "2024-10-18T14:17:39+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Call center staff are very professional and helpful. Resolved my issue quickly.",
+            "created_time": "2024-10-08T11:50:23+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Network congestion during peak hours in Galle city area needs attention.",
+            "created_time": "2024-08-07T16:35:48+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "The loyalty program rewards are decent. Accumulated enough points for a good discount.",
+            "created_time": "2024-02-20T13:45:29+0000"
+        },
+        {
+            "review_text": "4G coverage in rural areas has improved significantly over the past year.",
+            "created_time": "2023-09-05T10:20:15+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "Bill payments through digital channels are convenient and instant.",
+            "created_time": "2024-03-25T08:55:37+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Their enterprise solutions for our business are reliable but expensive.",
+            "created_time": "2023-12-30T14:40:22+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "Voice call quality is crystal clear. No complaints!",
+            "created_time": "2024-04-12T09:15:48+0000"
+        },
+        {
+            "review_text": "Too many promotional SMS messages. Need better control over this.",
+            "created_time": "2024-10-28T11:30:55+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "5G speeds are amazing in Colombo central! Getting over 800Mbps consistently.",
+            "created_time": "2024-06-15T16:25:33+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Coverage at Bandaranaike Airport has improved after recent upgrades.",
+            "created_time": "2024-08-20T12:50:27+0000"
+        },
+        {
+            "review_text": "The family package offers good value for money. All 5 numbers under one bill.",
+            "created_time": "2024-03-05T15:35:42+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "Poor network coverage in basement parking areas of shopping malls.",
+            "created_time": "2023-09-15T10:45:18+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Online chat support is quick and efficient. Solved my query in minutes.",
+            "created_time": "2024-02-28T13:20:55+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "The prepaid to postpaid conversion process was complicated and time-consuming.",
+            "created_time": "2023-12-08T09:40:33+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Good coverage along southern expressway. No call drops during travel.",
+            "created_time": "2024-04-05T14:15:27+0000"
+        },
+        {
+            "review_text": "Their home broadband service is reliable but installation took too long.",
+            "created_time": "2024-10-12T11:55:48+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "The Dialog TV bundle with mobile service offers good savings.",
+            "created_time": "2024-06-25T16:30:22+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Network performance during New Year season was disappointing.",
+            "created_time": "2024-08-15T12:25:15+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Easy to top up through digital wallets and online banking.",
+            "created_time": "2024-03-30T15:50:37+0000"
+        },
+        {
+            "review_text": "Coverage in Nuwara Eliya area needs improvement, especially during peak season.",
+            "created_time": "2023-09-28T10:35:45+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "The star points reward system is generous compared to other operators.",
+            "created_time": "2024-02-12T13:40:28+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "Had issues with international SMS delivery, but customer service helped resolve it.",
+            "created_time": "2023-12-22T09:15:33+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Signal strength in Jaffna area is excellent after recent tower upgrades.",
+            "created_time": "2024-04-18T14:45:27+0000"
+        },
+        {
+            "review_text": "Their corporate customer service is professional and responsive.",
+            "created_time": "2024-10-05T11:20:55+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "The mobile app needs a better user interface and more features.",
+            "created_time": "2024-06-18T16:55:42+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Good coverage in remote areas of Anuradhapura district.",
+            "created_time": "2024-08-25T12:30:18+0000"
+        },
+        {
+            "review_text": "The number portability process was smooth and well-handled.",
+            "created_time": "2024-03-15T15:25:33+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "Internet speeds fluctuate during evening hours in suburban areas.",
+            "created_time": "2023-09-08T10:50:27+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Appreciate their quick response during recent network outage.",
+            "created_time": "2024-02-22T13:15:45+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "The self-service portal is user-friendly and works well.",
+            "created_time": "2023-12-05T09:45:22+0000"
+        },
+        {
+            "review_text": "Coverage in hill country areas has improved significantly.",
+            "created_time": "2024-04-10T14:20:18+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Data rollover feature is helpful for managing monthly usage.",
+            "created_time": "2024-10-15T11:40:55+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "Recent price hikes for data packages are disappointing.",
+            "created_time": "2024-06-30T16:15:33+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Their IoT solutions for our smart home setup work flawlessly.",
+            "created_time": "2024-08-10T12:45:27+0000"
+        },
+        {
+            "review_text": "Good coverage in beach areas of Trincomalee.",
+            "created_time": "2024-03-20T15:10:48+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "The weekend data bonuses are a great addition to packages.",
+            "created_time": "2023-09-18T10:30:22+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Network performance during cricket matches at RPS needs improvement.",
+            "created_time": "2024-02-25T13:55:15+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Prompt notification for low balance and package expiry.",
+            "created_time": "2023-12-12T09:25:37+0000"
+        },
+        {
+            "review_text": "Their disaster response during recent floods was commendable.",
+            "created_time": "2024-04-22T14:50:45+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Need more affordable international calling packages.",
+            "created_time": "2024-10-22T11:05:33+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Their emergency credit service saved me during a crucial moment. Very helpful feature!",
+            "created_time": "2024-04-20T08:15:30+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Signal drops frequently in Batticaloa city center during festivals.",
+            "created_time": "2024-08-05T13:45:22+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "The Dialog Experience Center in Colombo provided excellent service for my SIM upgrade.",
+            "created_time": "2024-03-12T15:20:45+0000"
+        },
+        {
+            "review_text": "Monthly data caps are too restrictive for heavy users like me.",
+            "created_time": "2023-09-25T10:55:18+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Impressed with their quick tower repair after recent storms in Matara.",
+            "created_time": "2024-02-08T14:30:33+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "The Dialog Premier program benefits are worth the extra cost.",
+            "created_time": "2023-12-18T09:25:27+0000"
+        },
+        {
+            "review_text": "Coverage in Hatton tea estates is spotty. Need more towers.",
+            "created_time": "2024-06-22T16:40:42+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Their student packages are affordable and include good data allowances.",
+            "created_time": "2024-10-30T11:15:55+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "The video streaming quality on their 4G network is excellent.",
+            "created_time": "2024-04-05T15:50:18+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Took too long to activate my new connection. Documentation process needs streamlining.",
+            "created_time": "2023-09-12T12:35:33+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Good coverage throughout the Southern Expressway journey.",
+            "created_time": "2024-03-28T14:10:27+0000"
+        },
+        {
+            "review_text": "The Dialog Club Vision benefits at partner stores are quite useful.",
+            "created_time": "2024-08-15T10:45:48+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "Network is stable even during power outages. Good backup systems.",
+            "created_time": "2024-02-18T13:20:22+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Wish they had better integration with international payment systems.",
+            "created_time": "2023-12-28T09:55:15+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "The voice call quality in Polonnaruwa area has improved recently.",
+            "created_time": "2024-06-08T16:30:37+0000"
+        },
+        {
+            "review_text": "Their disaster alert SMS system during recent floods was helpful.",
+            "created_time": "2024-10-20T11:40:45+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Mobile data speeds in Negombo beach area need improvement.",
+            "created_time": "2024-04-15T15:15:28+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "The Dialog store staff in Kandy City Center are very professional.",
+            "created_time": "2023-09-30T12:50:33+0000"
+        },
+        {
+            "review_text": "Good coverage in remote archaeological sites in Anuradhapura.",
+            "created_time": "2024-03-05T14:25:27+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "The auto-renewal system for packages sometimes fails to activate.",
+            "created_time": "2024-08-25T10:00:42+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Appreciate their support during the recent technology upgrade in our area.",
+            "created_time": "2024-02-28T13:35:55+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Coverage in Dambulla cave temple area could be better.",
+            "created_time": "2023-12-10T09:10:18+0000"
+        },
+        {
+            "review_text": "The Dialog app's usage tracking feature helps manage data consumption.",
+            "created_time": "2024-06-12T16:45:33+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "Network performance during Vesak festival was disappointing.",
+            "created_time": "2024-10-05T11:20:27+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Good signal strength in Gampaha industrial area.",
+            "created_time": "2024-04-25T15:55:48+0000"
+        },
+        {
+            "review_text": "The paperless billing system works flawlessly.",
+            "created_time": "2023-09-18T12:30:22+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Need better coverage in new apartment complexes in Rajagiriya.",
+            "created_time": "2024-03-15T14:05:15+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Their technical support team resolved my VoLTE issues quickly.",
+            "created_time": "2024-08-30T10:40:37+0000"
+        },
+        {
+            "review_text": "The family tracker service gives peace of mind for parents.",
+            "created_time": "2024-02-05T13:15:45+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Internet speeds in Kurunegala city center are inconsistent.",
+            "created_time": "2023-12-22T09:50:33+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Excellent coverage during our hiking trip in Horton Plains.",
+            "created_time": "2024-06-28T16:25:27+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "The budget data packages need more validity period.",
+            "created_time": "2024-10-15T11:00:48+0000"
+        },
+        {
+            "review_text": "Signal strength in Colombo Port area is consistently good.",
+            "created_time": "2024-04-08T15:35:22+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Their mobile money service needs more merchant partnerships.",
+            "created_time": "2023-09-22T12:10:15+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "The network optimization in Matale town has improved speeds.",
+            "created_time": "2024-03-25T14:45:37+0000"
+        },
+        {
+            "review_text": "Poor coverage in some parts of Badulla district.",
+            "created_time": "2024-08-18T10:20:45+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Love their special data packages during cricket tournaments.",
+            "created_time": "2024-02-15T13:55:33+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "The IVR system needs more language options for tourists.",
+            "created_time": "2023-12-05T09:30:27+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Reliable service during my business trips across the country.",
+            "created_time": "2024-06-18T16:05:48+0000"
+        },
+        {
+            "review_text": "Network congestion during peak hours in Pettah area.",
+            "created_time": "2024-10-28T11:40:22+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "The seasonal promotional offers are good value for money.",
+            "created_time": "2024-04-12T15:15:15+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "Coverage in Ella tourist areas has improved significantly.",
+            "created_time": "2023-09-08T12:50:37+0000"
+        },
+        {
+            "review_text": "Their enterprise support team is very responsive.",
+            "created_time": "2024-03-22T14:25:45+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Need more affordable international roaming packages.",
+            "created_time": "2024-08-12T10:00:33+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Good signal strength throughout Katunayake airport.",
+            "created_time": "2024-02-25T13:35:27+0000"
+        },
+        {
+            "review_text": "The online payment system sometimes shows transaction delays.",
+            "created_time": "2023-12-15T09:10:48+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Impressive 5G speeds in Mount Lavinia beach area.",
+            "created_time": "2024-06-05T16:45:22+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Their charitable initiatives during floods were commendable.",
+            "created_time": "2024-10-22T11:20:15+0000"
+        },
+        {
+            "review_text": "Network performance in Hambantota port area is excellent.",
+            "created_time": "2024-04-18T15:55:37+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "The WiFi calling feature works seamlessly in dead zones.",
+            "created_time": "2023-09-28T12:30:45+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Need better coverage in newly developed residential areas.",
+            "created_time": "2024-03-08T14:05:33+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Used their eSIM service while working remotely from Unawatuna beach. Perfect for digital nomads!",
+            "created_time": "2024-04-21T09:10:25+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Network completely failed during the big cricket match at Pallekele stadium. Couldn't even send a text.",
+            "created_time": "2024-08-08T14:25:18+0000",
+            "rating": 1
+        },
+        {
+            "review_text": "Dialog's IoT pet tracker helped me find my lost dog in Dehiwala. Worth every rupee!",
+            "created_time": "2024-03-15T16:40:33+0000"
+        },
+        {
+            "review_text": "Gaming latency is terrible during evening hours in Moratuwa university area. Not good for mobile gamers.",
+            "created_time": "2023-09-28T11:55:42+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Created a custom business solution for our tea factory in Ratnapura. Excellent enterprise support!",
+            "created_time": "2024-02-10T13:30:15+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Their 'Learn from Home' student package helped my kids during online classes. Good initiative!",
+            "created_time": "2023-12-20T08:15:27+0000"
+        },
+        {
+            "review_text": "Can't use mobile banking properly due to frequent network timeouts in Panchikawatta area.",
+            "created_time": "2024-06-25T15:50:48+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Using Dialog's NB-IoT network for our smart agriculture project in Dambulla. Great coverage!",
+            "created_time": "2024-10-12T12:20:33+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Their vehicle tracking system helped recover our stolen delivery bike. Fantastic service!",
+            "created_time": "2024-04-08T14:45:22+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Expensive packages for live streaming compared to other providers. Need better streaming bundles.",
+            "created_time": "2023-09-15T10:35:15+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Dialog's 5G network made our telemedicine project possible in remote Monaragala villages.",
+            "created_time": "2024-03-30T16:00:37+0000"
+        },
+        {
+            "review_text": "Poor network coverage affects our hotel booking system in Arugam Bay during peak season.",
+            "created_time": "2024-08-22T11:25:45+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Great connectivity during our wildlife photography expedition in Wilpattu!",
+            "created_time": "2024-02-18T13:40:33+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "Dialog's emergency services locator helped during flash floods in Ratnapura. Literally a lifesaver!",
+            "created_time": "2023-12-05T09:15:27+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Used their M2M SIM for our vending machines network. Reliable but expensive monthly plans.",
+            "created_time": "2024-06-10T15:30:48+0000"
+        },
+        {
+            "review_text": "Signal keeps dropping in underwater glass tunnel at Galle marine park.",
+            "created_time": "2024-10-28T12:55:22+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Their corporate bulk SMS service is perfect for our retail business notifications.",
+            "created_time": "2024-04-12T14:20:15+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Network issues during graduation ceremony at BMICH. Couldn't live stream for family.",
+            "created_time": "2023-09-20T10:45:37+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Dialog's smart parking solution in Colombo Fort area works flawlessly!",
+            "created_time": "2024-03-25T16:10:45+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "Poor coverage in basement shopping areas of One Galle Face mall.",
+            "created_time": "2024-08-15T11:35:33+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Their drone control SIM cards are reliable for our aerial photography business.",
+            "created_time": "2024-02-22T13:50:27+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Mobile signal drops frequently in moving trains on Kelani Valley line.",
+            "created_time": "2023-12-08T09:25:48+0000"
+        },
+        {
+            "review_text": "Dialog's tourist SIM package was perfect for our month-long Sri Lanka tour.",
+            "created_time": "2024-06-15T15:40:22+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "No network coverage during paragliding sessions in Bambaragala.",
+            "created_time": "2024-10-18T12:05:15+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Using their fleet management system for our logistics company. Very reliable!",
+            "created_time": "2024-04-05T14:30:37+0000"
+        },
+        {
+            "review_text": "Excellent connectivity during our diving excursions in Trincomalee.",
+            "created_time": "2023-09-25T10:55:45+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "Dialog's smart farming solutions helped automate our greenhouse in Nuwara Eliya.",
+            "created_time": "2024-03-20T16:15:33+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Network congestion makes food delivery app unusable in Wellawatte during lunch hours.",
+            "created_time": "2024-08-28T11:40:27+0000"
+        },
+        {
+            "review_text": "Their specialized medical emergency alert system works great for our elderly care home.",
+            "created_time": "2024-02-12T13:05:48+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Poor connectivity affects our POS systems in Majestic City food court.",
+            "created_time": "2023-12-15T09:30:22+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Dialog's smart attendance system is perfect for our construction sites.",
+            "created_time": "2024-06-20T15:55:15+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "No signal during boat rides in Madu River despite their coverage claims.",
+            "created_time": "2024-10-22T12:20:37+0000"
+        },
+        {
+            "review_text": "Their industrial IoT solutions helped modernize our factory in Biyagama.",
+            "created_time": "2024-04-15T14:45:45+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Network issues during cultural shows at Nelum Pokuna theatre.",
+            "created_time": "2023-09-30T10:10:33+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Great coverage during our camping trip in Knuckles mountain range!",
+            "created_time": "2024-03-08T16:35:27+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "Their solar-powered mobile towers in our village never fail during power cuts.",
+            "created_time": "2024-08-12T11:50:48+0000"
+        },
+        {
+            "review_text": "Dialog's school bus tracking system gives parents peace of mind.",
+            "created_time": "2024-02-28T13:15:22+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Signal issues affect our taxi dispatch system in Katunayake airport area.",
+            "created_time": "2023-12-25T09:40:15+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Used their special event coverage package for our wedding live stream.",
+            "created_time": "2024-06-05T15:05:37+0000"
+        },
+        {
+            "review_text": "No network in underground parking at World Trade Center despite multiple complaints.",
+            "created_time": "2024-10-08T12:30:45+0000",
+            "rating": 1
+        },
+        {
+            "review_text": "Dialog's smart metering solution revolutionized our utility billing system.",
+            "created_time": "2024-04-18T14:55:33+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Coverage issues during surfing competition at Arugam Bay.",
+            "created_time": "2023-09-18T10:25:27+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Their disaster warning system helped evacuate our coastal hotel in time.",
+            "created_time": "2024-03-12T16:50:48+0000"
+        },
+        {
+            "review_text": "Network dead spots in new apartment complexes at Havelock City.",
+            "created_time": "2024-08-20T11:15:22+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Dialog's cloud PABX system is perfect for our remote working team.",
+            "created_time": "2024-02-15T13:40:15+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Poor signal during boat safari in Bundala National Park.",
+            "created_time": "2023-12-30T09:05:37+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Their mobile payment system is a game-changer for our street food business.",
+            "created_time": "2024-06-25T15:30:45+0000"
+        },
+        {
+            "review_text": "Network issues during concerts at Viharamahadevi open air theatre.",
+            "created_time": "2024-10-15T12:55:33+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Dialog's smart irrigation control works perfectly for our paddy fields.",
+            "created_time": "2024-04-22T14:20:27+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Frequent call drops in express train between Colombo-Kandy.",
+            "created_time": "2023-09-22T10:45:48+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Their digital advertising displays in our mall run smoothly on Dialog's network.",
+            "created_time": "2024-03-18T16:10:22+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "Dialog Home Broadband's 100Mbps fiber connection is rock solid for my WFH setup in Rajagiriya.",
+            "created_time": "2024-04-23T08:15:30+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Dialog TV keeps freezing during rain. Even moderate showers affect signal quality.",
+            "created_time": "2024-08-02T13:40:22+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Got a great deal on Samsung S24 Ultra with Dialog's postpaid bundle. Easy EMI process.",
+            "created_time": "2024-03-18T15:25:45+0000"
+        },
+        {
+            "review_text": "4G Home Broadband speeds drop significantly during evening peak hours in Kottawa.",
+            "created_time": "2023-09-28T10:50:18+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Dialog TV's cricket package with multiple camera angles is worth every rupee!",
+            "created_time": "2024-02-12T14:35:33+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Their iPhone 15 Pro installment plan is convenient but interest rates are high.",
+            "created_time": "2023-12-15T09:20:27+0000"
+        },
+        {
+            "review_text": "Fiber installation took over 3 weeks in Maharagama. Poor coordination between teams.",
+            "created_time": "2024-06-20T16:45:42+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Dialog ViU app works great on smart TV. Love the catch-up TV feature!",
+            "created_time": "2024-10-25T11:30:55+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "Bought Huawei Nova from Dialog store - good phone but limited app support.",
+            "created_time": "2024-04-08T15:15:18+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Broadband Wi-Fi mesh system solved our coverage issues in three-story house.",
+            "created_time": "2023-09-15T12:40:33+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Dialog TV HD channels are not truly HD quality. Picture could be better.",
+            "created_time": "2024-03-22T14:25:27+0000"
+        },
+        {
+            "review_text": "Great price on iPad Air with their data bundle. Staff helped transfer data from old device.",
+            "created_time": "2024-08-18T10:55:48+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "Fiber broadband installation damaged our garden. Poor workmanship.",
+            "created_time": "2024-02-25T13:30:22+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Dialog TV's education channel package helped my kids during exam preparation.",
+            "created_time": "2023-12-08T09:15:15+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Purchased OnePlus 12 from Dialog - authentic product with warranty.",
+            "created_time": "2024-06-15T16:40:37+0000"
+        },
+        {
+            "review_text": "Home broadband data cap is too restrictive for a family of five.",
+            "created_time": "2024-10-30T11:25:45+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "New Dialog TV interface is confusing for elderly parents. Need simpler UI.",
+            "created_time": "2024-04-12T15:50:33+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "5G router from Dialog works great in our Mount Lavinia apartment.",
+            "created_time": "2023-09-22T12:35:27+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "Dialog TV's movie package needs more recent releases. Content is outdated.",
+            "created_time": "2024-03-28T14:00:48+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Trade-in value for old iPhone was fair. Smooth upgrade to iPhone 15.",
+            "created_time": "2024-08-25T10:45:22+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "Broadband connection drops during video conferences. Not reliable for remote work.",
+            "created_time": "2024-02-18T13:20:15+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Dialog TV's Tamil serial package has great content selection.",
+            "created_time": "2023-12-20T09:55:37+0000"
+        },
+        {
+            "review_text": "Good deals on Samsung tablets with their data packages.",
+            "created_time": "2024-06-08T16:30:45+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "Fiber broadband speed never reaches promised 200Mbps in Pannipitiya.",
+            "created_time": "2024-10-12T11:15:33+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Dialog TV app needs better streaming quality on mobile devices.",
+            "created_time": "2024-04-15T15:40:27+0000"
+        },
+        {
+            "review_text": "Purchased Google Pixel from Dialog - genuine product with good after-sales.",
+            "created_time": "2023-09-28T12:25:48+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Home broadband installation was quick and professional in Nugegoda.",
+            "created_time": "2024-03-12T14:50:22+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "Dialog TV's sports package missing important football leagues.",
+            "created_time": "2024-08-15T10:35:15+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Got Xiaomi 14 with Dialog connection - great value bundle.",
+            "created_time": "2024-02-22T13:00:37+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "Broadband technical support is slow to respond to connection issues.",
+            "created_time": "2023-12-05T09:45:45+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Dialog TV's Sinhala movie collection needs more recent releases.",
+            "created_time": "2024-06-25T16:20:33+0000"
+        },
+        {
+            "review_text": "Good experience buying Apple Watch from Dialog store. Staff knowledge excellent.",
+            "created_time": "2024-10-18T11:55:27+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Fiber broadband upload speeds are great for my YouTube channel.",
+            "created_time": "2024-04-20T15:30:48+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "Dialog TV receiver replacement took too long after lightning damage.",
+            "created_time": "2023-09-25T12:15:22+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Pre-ordered Samsung S24+ through Dialog. Great pre-order benefits!",
+            "created_time": "2024-03-15T14:40:15+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Home broadband router keeps resetting randomly. Frustrating!",
+            "created_time": "2024-08-28T10:25:37+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Dialog TV's documentary channels are excellent for kids.",
+            "created_time": "2024-02-08T13:50:45+0000"
+        },
+        {
+            "review_text": "Bought Nothing Phone (2) from Dialog - competitive price with warranty.",
+            "created_time": "2023-12-12T09:35:33+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "Broadband speed upgrades are expensive compared to other ISPs.",
+            "created_time": "2024-06-30T16:00:27+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Dialog TV's recording feature is useful for busy professionals.",
+            "created_time": "2024-10-22T11:45:48+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "Got Vivo V29 with Dialog connection. Good mid-range option.",
+            "created_time": "2024-04-05T15:20:22+0000"
+        },
+        {
+            "review_text": "Broadband installation team was professional and neat in Battaramulla.",
+            "created_time": "2023-09-18T12:55:15+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Dialog TV picture quality deteriorates too much during bad weather.",
+            "created_time": "2024-03-25T14:30:37+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "OPPO Reno series phones from Dialog come with good warranty coverage.",
+            "created_time": "2024-08-22T10:15:45+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "Home broadband customer service is helpful but wait times are long.",
+            "created_time": "2024-02-15T13:40:33+0000"
+        },
+        {
+            "review_text": "Dialog TV's channel packages are overpriced for limited content.",
+            "created_time": "2023-12-28T09:25:27+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Motorola Edge 40 from Dialog store - good phone, competitive price.",
+            "created_time": "2024-06-12T16:50:48+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "Fiber broadband has transformed our home entertainment experience.",
+            "created_time": "2024-10-08T11:35:22+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Dialog TV's children's channels need better parental controls.",
+            "created_time": "2024-04-18T15:00:15+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Samsung Tab S9 bundle with Dialog data plan is good value.",
+            "created_time": "2023-09-30T12:45:37+0000"
+        },
+        {
+            "review_text": "Broadband service in Nawala area is inconsistent during peak hours.",
+            "created_time": "2024-03-05T14:10:45+0000",
+            "rating": 3
+        }
+    ],
+    "elephant_house": [
+        {
+            "review_text": "The classic EH Cream Soda is unbeatable! Been drinking it since childhood and the taste remains consistent. Perfect carbonation level! 💚",
+            "created_time": "2024-05-15T14:22:10+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Their ginger beer is absolutely phenomenal - perfect blend of spice and sweetness. Great alternative to regular sodas.",
+            "created_time": "2023-08-22T09:15:30+0000"
+        },
+        {
+            "review_text": "Recently tried their new mango ice cream - disappointing texture and artificial taste. Expected better from Elephant House.",
+            "created_time": "2024-02-11T16:45:22+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "The Necto orange drink needs improvement. Too sweet and artificial tasting compared to other brands.",
+            "created_time": "2024-08-05T11:33:45+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Their processed meat section at the supermarket is always well-stocked and fresh. The chicken sausages are a family favorite!",
+            "created_time": "2024-04-02T08:20:15+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Customer service at their factory outlet was exceptional. Staff went above and beyond to help with bulk order.",
+            "created_time": "2023-07-18T13:40:25+0000"
+        },
+        {
+            "review_text": "The vanilla ice cream cups served at their parlor are heavenly! Perfect portion size too. 🍦",
+            "created_time": "2024-06-30T15:55:40+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Delivery service needs serious improvement. Order arrived 2 hours late and ice cream was completely melted.",
+            "created_time": "2023-12-12T17:10:30+0000",
+            "rating": 1
+        },
+        {
+            "review_text": "Their chocolate ice cream is rich and creamy - definitely premium quality! Worth every rupee.",
+            "created_time": "2023-09-28T10:25:15+0000"
+        },
+        {
+            "review_text": "Elephant House soft drinks remind me of home. No other brand comes close to their unique flavors!",
+            "created_time": "2024-03-05T12:30:45+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Found a foreign object in their hot dog package. Quality control needs improvement.",
+            "created_time": "2024-10-15T14:20:30+0000",
+            "rating": 1
+        },
+        {
+            "review_text": "The new mobile ordering app is user-friendly and makes ordering so convenient! 📱",
+            "created_time": "2024-04-20T09:15:20+0000"
+        },
+        {
+            "review_text": "Their corporate event catering service was outstanding. Professional staff and great food quality.",
+            "created_time": "2023-08-05T16:40:25+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "The strawberry ice cream lacks real fruit flavor. Tastes too artificial.",
+            "created_time": "2024-02-28T11:25:35+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Love their seasonal special editions! The Christmas plum ice cream was fantastic! 🎄",
+            "created_time": "2023-12-26T13:50:20+0000"
+        },
+        {
+            "review_text": "Website ordering system is glitchy and needs updating. Often crashes during payment.",
+            "created_time": "2024-06-15T10:30:45+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Their factory tour was both educational and fun! Great experience for the kids.",
+            "created_time": "2023-07-30T15:20:30+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "The new sugar-free range is a game changer! Finally can enjoy my favorite drinks guilt-free.",
+            "created_time": "2024-03-22T14:15:25+0000"
+        },
+        {
+            "review_text": "Packaging quality of ice cream tubs has deteriorated. Plastic feels flimsy now.",
+            "created_time": "2024-08-28T12:40:35+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Their loyalty program offers great value! The points system is generous. 👍",
+            "created_time": "2024-05-01T09:25:20+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "The new flavor combinations in their premium ice cream range are innovative and delicious!",
+            "created_time": "2023-09-15T16:30:45+0000"
+        },
+        {
+            "review_text": "Quality consistency issues with their processed meat products lately.",
+            "created_time": "2024-02-05T11:20:30+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Their environmental initiatives with recyclable packaging are commendable! 🌱",
+            "created_time": "2024-10-30T14:15:25+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "The ice cream cake for my daughter's birthday was perfect! Great customization options.",
+            "created_time": "2024-04-15T13:40:35+0000"
+        },
+        {
+            "review_text": "Prices have increased significantly but portion sizes remain the same. Disappointing.",
+            "created_time": "2023-08-12T10:25:20+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Their vending machines often malfunction and eat money. Better maintenance needed.",
+            "created_time": "2024-06-25T15:30:45+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "The new coffee-flavored ice cream is absolutely divine! Perfect blend of flavors.",
+            "created_time": "2024-08-18T12:20:30+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Drive-through service at their outlet is quick and efficient. 🚗",
+            "created_time": "2024-03-08T14:15:25+0000"
+        },
+        {
+            "review_text": "Their promotional events are always fun and well-organized. Great community engagement!",
+            "created_time": "2023-07-22T11:40:35+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "The new low-calorie ice cream range tastes bland. Needs improvement.",
+            "created_time": "2024-02-18T09:25:20+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Customer support team resolved my complaint promptly. Very professional service.",
+            "created_time": "2023-12-05T16:30:45+0000"
+        },
+        {
+            "review_text": "The limited edition faluda ice cream was amazing! Please make it permanent! 😋",
+            "created_time": "2024-04-28T13:20:30+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Product availability issues in rural areas. Need better distribution network.",
+            "created_time": "2023-09-02T10:15:25+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Their ice cream parlor staff is always friendly and helpful. Great service!",
+            "created_time": "2024-06-08T15:40:35+0000"
+        },
+        {
+            "review_text": "The new packaging design looks modern and attractive. Nice upgrade! 👌",
+            "created_time": "2024-10-25T12:25:20+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Batch quality varies too much. Some days perfect, others disappointing.",
+            "created_time": "2024-03-18T14:30:45+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Their food safety standards are impressive. Factory is spotlessly clean!",
+            "created_time": "2023-08-28T11:20:30+0000"
+        },
+        {
+            "review_text": "The new mint chocolate chip ice cream is too artificial tasting.",
+            "created_time": "2024-05-10T09:15:25+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Great value for money compared to international brands. Quality matches up!",
+            "created_time": "2024-08-15T16:40:35+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Their CSR initiatives in local communities are making real impact. Respect! 🙏",
+            "created_time": "2024-02-22T13:25:20+0000"
+        },
+        {
+            "review_text": "The new bottle design is not practical. Difficult to pour without spilling.",
+            "created_time": "2023-09-20T10:30:45+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Their ice cream cakes are perfect for special occasions. Great variety!",
+            "created_time": "2024-04-05T15:20:30+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Need more sugar-free options in their beverage range.",
+            "created_time": "2023-12-18T12:15:25+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "The classic vanilla flavor brings back childhood memories. Never disappoints! 💕",
+            "created_time": "2024-06-20T14:40:35+0000"
+        },
+        {
+            "review_text": "Their online ordering system needs a better tracking feature.",
+            "created_time": "2024-10-08T11:25:20+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Appreciated their quick response to allergen information request. Very professional!",
+            "created_time": "2024-03-28T09:30:45+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "The new spicy chicken sausages are too mild. Previous recipe was better.",
+            "created_time": "2023-07-25T16:20:30+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Love their seasonal fruit flavors! Always look forward to mango season! 🥭",
+            "created_time": "2024-05-05T13:15:25+0000"
+        },
+        {
+            "review_text": "The bulk ordering process for corporate events is smooth and efficient.",
+            "created_time": "2024-08-22T10:40:35+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Would love to see more dairy-free options in their product range.",
+            "created_time": "2024-02-15T15:25:20+0000"
+        },
+        {
+            "review_text": "Their response to customer feedback is commendable. Always striving to improve!",
+            "created_time": "2023-09-10T12:30:45+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Tried their new jackfruit ice cream flavor - amazing blend of authentic local taste! 🍨",
+            "created_time": "2023-05-15T13:22:10+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "The sausage production facility tour was eye-opening. Impressive hygiene standards!",
+            "created_time": "2024-06-18T10:15:30+0000"
+        },
+        {
+            "review_text": "Cream soda seems less fizzy these days. Quality isn't what it used to be.",
+            "created_time": "2023-06-11T15:45:22+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "New party pack sizes are perfect for small gatherings. Good thinking! 🎉",
+            "created_time": "2024-04-25T11:33:45+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Found their meat processing facility outdated during industry visit.",
+            "created_time": "2023-03-02T08:20:15+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "The summer mango special drink is refreshing! Perfect for hot days. 🥭",
+            "created_time": "2024-03-18T13:40:25+0000"
+        },
+        {
+            "review_text": "Ice cream cake delivery was a disaster. Melted on arrival despite premium delivery fee.",
+            "created_time": "2023-04-30T15:55:40+0000",
+            "rating": 1
+        },
+        {
+            "review_text": "Their B2B service for hotels is reliable. Never had supply issues.",
+            "created_time": "2024-02-12T17:10:30+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "New eco-friendly packaging is great but affects the drink's coldness retention.",
+            "created_time": "2023-02-28T10:25:15+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "The factory outlet store concept is brilliant! Great discounts on bulk purchases.",
+            "created_time": "2024-05-05T12:30:45+0000"
+        },
+        {
+            "review_text": "Kids' birthday party catering package needs more variety in ice cream flavors.",
+            "created_time": "2023-06-15T14:20:30+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Love their new recyclable cups at events! Environmentally conscious! 🌱",
+            "created_time": "2024-06-20T09:15:20+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "The vegan ice cream range is a disappointment. Texture needs work.",
+            "created_time": "2023-03-05T16:40:25+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Corporate gifting service was efficient. Professional packaging and delivery.",
+            "created_time": "2024-04-28T11:25:35+0000"
+        },
+        {
+            "review_text": "Their Avurudu special edition drinks are always something to look forward to! 🎊",
+            "created_time": "2023-04-13T13:50:20+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Restaurant supply chain management needs improvement. Frequent stockouts.",
+            "created_time": "2024-02-15T10:30:45+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "The new QR code scanning system for product authenticity is innovative!",
+            "created_time": "2023-05-30T15:20:30+0000"
+        },
+        {
+            "review_text": "Their response to product feedback was swift and solution-oriented.",
+            "created_time": "2024-03-22T14:15:25+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "School canteen partnership program has limited healthy options.",
+            "created_time": "2023-02-28T12:40:35+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "The ramadan special ice cream pack was incredible value for money! 👍",
+            "created_time": "2024-05-12T09:25:20+0000"
+        },
+        {
+            "review_text": "Their food science internship program was an excellent learning experience!",
+            "created_time": "2023-06-15T16:30:45+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "New bottling plant tour was informative but too rushed.",
+            "created_time": "2024-06-05T11:20:30+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Appreciate their quick action on my allergen-related complaint! 🙏",
+            "created_time": "2023-04-30T14:15:25+0000"
+        },
+        {
+            "review_text": "The new returnable glass bottle initiative is great for the environment!",
+            "created_time": "2024-04-15T13:40:35+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Wholesale pricing structure needs revision. Not competitive enough.",
+            "created_time": "2023-03-12T10:25:20+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Customer service at the head office was excellent! Very helpful staff.",
+            "created_time": "2024-02-25T15:30:45+0000"
+        },
+        {
+            "review_text": "Their new vitamin-enriched drink range tastes medicinal.",
+            "created_time": "2023-05-18T12:20:30+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Great to see local fruit flavors in their new ice cream range! 🍎",
+            "created_time": "2024-03-08T14:15:25+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "The food safety certification process was thorough and professional.",
+            "created_time": "2023-02-22T11:40:35+0000"
+        },
+        {
+            "review_text": "Mobile app keeps crashing after recent update. Needs fixing.",
+            "created_time": "2024-05-18T09:25:20+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Their community outreach program during floods was commendable.",
+            "created_time": "2023-06-05T16:30:45+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "New paper straw initiative is good but straws dissolve too quickly. 🥤",
+            "created_time": "2024-06-28T13:20:30+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Product exhibition at food expo was well-organized. Great samples!",
+            "created_time": "2023-04-02T10:15:25+0000"
+        },
+        {
+            "review_text": "Quality control at the new bottling plant needs improvement.",
+            "created_time": "2024-04-08T15:40:35+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "The new talent development program is excellent! Great training! 👍",
+            "created_time": "2023-05-25T12:25:20+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Vending machines at universities often run out of popular drinks.",
+            "created_time": "2024-02-18T14:30:45+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Their sponsorship of local sports events deserves recognition!",
+            "created_time": "2023-03-28T11:20:30+0000"
+        },
+        {
+            "review_text": "New loyalty program app is confusing to use. Needs simplification.",
+            "created_time": "2024-05-10T09:15:25+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "The heritage museum at their main factory is fascinating! 🏛️",
+            "created_time": "2023-06-15T16:40:35+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Product labeling needs to be clearer about artificial sweeteners.",
+            "created_time": "2024-03-22T13:25:20+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Their involvement in school nutrition programs is praiseworthy.",
+            "created_time": "2023-04-20T10:30:45+0000"
+        },
+        {
+            "review_text": "Holiday gift hampers were overpriced for the contents provided.",
+            "created_time": "2024-06-05T15:20:30+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "The new coffee-flavored soft drink is innovative! Great taste! ☕",
+            "created_time": "2023-05-18T12:15:25+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Batch coding system on bottles needs to be more visible.",
+            "created_time": "2024-04-20T14:40:35+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Their graduate trainee program provides excellent exposure!",
+            "created_time": "2023-03-08T11:25:20+0000"
+        },
+        {
+            "review_text": "Digital marketing campaigns are engaging and creative! 📱",
+            "created_time": "2024-02-28T09:30:45+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Need more sugar-free options in the ice cream range.",
+            "created_time": "2023-06-25T16:20:30+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "The new virtual factory tour experience is impressive! 🎥",
+            "created_time": "2024-05-15T13:15:25+0000"
+        },
+        {
+            "review_text": "Their sustainability report shows real commitment to environment.",
+            "created_time": "2023-04-22T10:40:35+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Website needs a better FAQ section for product information.",
+            "created_time": "2024-03-15T15:25:20+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Impressed by their quick adaptation during the pandemic! 😷",
+            "created_time": "2023-05-10T12:30:45+0000"
+        },
+        {
+            "review_text": "The new premium ice cream line is absolutely divine! Rich, creamy texture and innovative flavors. Worth every rupee! 😋",
+            "created_time": "2024-04-15T13:22:10+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Terrible experience with online delivery. Order took 3 hours and drinks weren't even cold.",
+            "created_time": "2024-03-18T10:15:30+0000",
+            "rating": 1
+        },
+        {
+            "review_text": "Love the new durian special edition ice cream! Bold move and perfect execution! 🍦",
+            "created_time": "2024-05-11T15:45:22+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Mobile app is constantly crashing. Can't even complete a simple order. Fix it!",
+            "created_time": "2024-03-25T11:33:45+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "The factory tour experience has improved so much! Interactive and educational. Kids loved it! 🏭",
+            "created_time": "2024-04-02T08:20:15+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Found plastic in my sausage pack. Completely unacceptable for food safety!",
+            "created_time": "2024-03-18T13:40:25+0000",
+            "rating": 1
+        },
+        {
+            "review_text": "Their new cream soda zero sugar tastes amazingly close to the original! Finally! 🥤",
+            "created_time": "2024-05-20T15:55:40+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Prices increased but portion sizes decreased. Very disappointing.",
+            "created_time": "2024-04-12T17:10:30+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Outstanding catering service for our corporate event. Professional and punctual! 👏",
+            "created_time": "2024-03-28T10:25:15+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "New bottle design is horrible. Keeps leaking in my bag.",
+            "created_time": "2024-05-05T12:30:45+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "The new loyalty program gives amazing rewards! Already got free ice cream twice! 🎁",
+            "created_time": "2024-04-15T14:20:30+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Customer service is getting worse. No response to complaints for weeks.",
+            "created_time": "2024-03-20T09:15:20+0000",
+            "rating": 1
+        },
+        {
+            "review_text": "Love their new sustainable packaging initiative. Paper straws work great too! 🌱",
+            "created_time": "2024-05-15T16:40:25+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Quality control issues with ice cream - found ice crystals in several tubs.",
+            "created_time": "2024-04-28T11:25:35+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "The new spicy chicken sausages are amazing! Perfect heat level! 🌶️",
+            "created_time": "2024-03-15T13:50:20+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Vending machines at office keep eating money. No refund process in place.",
+            "created_time": "2024-05-02T10:30:45+0000",
+            "rating": 1
+        },
+        {
+            "review_text": "Their Vesak special edition drinks collection is innovative and refreshing! 🎋",
+            "created_time": "2024-04-20T15:20:30+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Website checkout process is broken. Lost money but no order confirmation.",
+            "created_time": "2024-03-22T14:15:25+0000",
+            "rating": 1
+        },
+        {
+            "review_text": "The new home delivery tracking system works perfectly! Always on time! 🚚",
+            "created_time": "2024-05-18T12:40:35+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Sugar content in drinks seems higher than labeled. Not good for health conscious customers.",
+            "created_time": "2024-04-05T09:25:20+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Amazing customer service at the factory outlet! Staff went above and beyond! 👍",
+            "created_time": "2024-03-30T16:30:45+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Bulk order arrived with many damaged items. Poor packaging.",
+            "created_time": "2024-05-08T11:20:30+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "The new QR code nutrition information system is so convenient! 📱",
+            "created_time": "2024-04-22T14:15:25+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Drive-through service is extremely slow. Waited 45 minutes!",
+            "created_time": "2024-03-28T13:40:35+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Their new fruit punch flavor is perfect for parties! Great mix! 🎉",
+            "created_time": "2024-05-12T10:25:20+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Product availability issues in suburban areas. Never in stock.",
+            "created_time": "2024-04-08T15:30:45+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Love how they've improved their ice cream cake customization options! 🎂",
+            "created_time": "2024-03-25T12:20:30+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "New recipe for chocolate ice cream is worse than before. Too sweet now.",
+            "created_time": "2024-05-01T14:15:25+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Their ramadan special combo packs are excellent value for money! 🌙",
+            "created_time": "2024-04-10T11:40:35+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Food court branch service is terrible. Staff is always rude.",
+            "created_time": "2024-03-15T09:25:20+0000",
+            "rating": 1
+        },
+        {
+            "review_text": "The new cashless payment system at vending machines works flawlessly! 💳",
+            "created_time": "2024-05-15T16:30:45+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Allergen information on packaging is too small to read. Safety concern!",
+            "created_time": "2024-04-18T13:20:30+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Great to see their support for local sports events! Community spirit! 🏆",
+            "created_time": "2024-03-22T10:15:25+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "New vanilla flavor tastes artificial. Missing the old recipe.",
+            "created_time": "2024-05-05T15:40:35+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Their school catering program is excellent! Kids love it! 🏫",
+            "created_time": "2024-04-25T12:25:20+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Expiry dates on some products were already passed when purchased.",
+            "created_time": "2024-03-18T14:30:45+0000",
+            "rating": 1
+        },
+        {
+            "review_text": "The new biodegradable packaging actually works well! No leaks! ♻️",
+            "created_time": "2024-05-20T11:20:30+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Online order tracking system shows wrong information consistently.",
+            "created_time": "2024-04-12T09:15:25+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Wonderful to see their support for local dairy farmers! 🐄",
+            "created_time": "2024-03-28T16:40:35+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "New meat processing facility tour was disappointing. Very restricted.",
+            "created_time": "2024-05-08T13:25:20+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Their new summer flavors are absolutely refreshing! Perfect for hot days! 🌞",
+            "created_time": "2024-04-30T10:30:45+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Loyalty points expired without warning. Poor communication.",
+            "created_time": "2024-03-20T15:20:30+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Impressed by their quick response to customer feedback! Actually listening! 👂",
+            "created_time": "2024-05-17T12:15:25+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Why change the classic cream soda recipe? New one isn't good.",
+            "created_time": "2024-04-15T14:40:35+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "The new mobile ordering feature saves so much time! Very convenient! 📱",
+            "created_time": "2024-03-25T11:25:20+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Product prices in rural areas are higher than city. Unfair pricing!",
+            "created_time": "2024-05-10T09:30:45+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Excellent initiative with the new recycling program at schools! 🌿",
+            "created_time": "2024-04-22T16:20:30+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Home delivery minimum order value is too high now.",
+            "created_time": "2024-03-15T13:15:25+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Their new vitamin-enriched drink range tastes great! Healthy choice! 💪",
+            "created_time": "2024-05-22T10:40:35+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "App keeps logging out during payment. Very frustrating!",
+            "created_time": "2024-04-05T15:25:20+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Love the new rewards program! Points add up quickly! 🎯",
+            "created_time": "2024-03-30T12:30:45+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "The new chocolate-orange ice cream flavor is absolutely phenomenal! Perfect blend of citrus and rich chocolate. 🍊🍫",
+            "created_time": "2024-05-22T09:15:30+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Solid selection of soft drinks, but prices have gone up significantly lately.",
+            "created_time": "2024-04-18T14:22:45+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Cannot believe how bad the new necto orange tastes. What happened to quality control?",
+            "created_time": "2024-03-15T11:30:20+0000",
+            "rating": 1
+        },
+        {
+            "review_text": "Their customer service team resolved my complaint within hours! Impressive work! 👏",
+            "created_time": "2024-05-20T16:45:10+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Recent batch of chicken sausages was undercooked. Health hazard!",
+            "created_time": "2024-04-05T13:20:30+0000",
+            "rating": 1
+        },
+        {
+            "review_text": "Love the new recyclable packaging initiative. Every bit helps the environment! ♻️",
+            "created_time": "2024-05-18T10:35:25+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Website keeps crashing during checkout. Basic functionality issues.",
+            "created_time": "2024-03-28T15:40:50+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "The vegan ice cream range is surprisingly good! Nice texture and flavor! 🌱",
+            "created_time": "2024-05-15T12:25:40+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "Product distribution in rural areas needs serious improvement.",
+            "created_time": "2024-04-22T09:50:15+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Amazing new cream soda float at their ice cream parlor! Perfect treat! 🥤",
+            "created_time": "2024-05-10T14:15:30+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Mobile app is decent but needs more payment options.",
+            "created_time": "2024-03-20T11:30:45+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Factory tour experience was educational and fun! Kids loved it! 🏭",
+            "created_time": "2024-05-05T16:20:10+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Found a foreign object in ice cream tub. Completely unacceptable!",
+            "created_time": "2024-04-12T13:45:30+0000",
+            "rating": 1
+        },
+        {
+            "review_text": "The new sugar-free range actually tastes great! Finally! 🎉",
+            "created_time": "2024-05-21T10:10:20+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Delivery service is hit or miss. Sometimes quick, sometimes very late.",
+            "created_time": "2024-03-25T15:30:40+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Corporate event catering was perfect! Professional service! 👔",
+            "created_time": "2024-05-17T12:40:15+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "New bottle design makes it difficult to pour without spilling.",
+            "created_time": "2024-04-08T09:25:50+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "The loyalty program rewards are actually worth collecting! 🎁",
+            "created_time": "2024-05-12T14:50:30+0000",
+            "rating": 4
+        },
+        {
+            "review_text": "Customer support took two weeks to respond to a simple query.",
+            "created_time": "2024-03-18T11:15:45+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "New mango ice cream flavor tastes just like fresh mangoes! 🥭",
+            "created_time": "2024-05-19T16:30:20+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Vending machines often out of order at university campus.",
+            "created_time": "2024-04-15T13:20:40+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "The new digitized ordering system at parlors is super efficient! 📱",
+            "created_time": "2024-05-08T10:45:15+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Quality varies too much between different outlets.",
+            "created_time": "2024-03-30T15:10:30+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Their environmental initiatives are making real impact! Proud customer! 🌿",
+            "created_time": "2024-05-16T12:25:45+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Price increase without any quality improvement.",
+            "created_time": "2024-04-25T09:40:20+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "The new strawberry cheesecake ice cream is heavenly! 🍓",
+            "created_time": "2024-05-14T14:15:35+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Online ordering system needs a better tracking feature.",
+            "created_time": "2024-03-22T11:30:50+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Great to see their support for local dairy farmers! 🐄",
+            "created_time": "2024-05-11T16:45:25+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Some retail outlets overcharging above MRP.",
+            "created_time": "2024-04-20T13:20:40+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "The new coffee-flavored ice cream is perfect! Not too sweet! ☕",
+            "created_time": "2024-05-09T10:35:15+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Paper straws get soggy too quickly with their drinks.",
+            "created_time": "2024-03-28T15:50:30+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Amazing response to my allergen-related query! Very professional! 👍",
+            "created_time": "2024-05-07T12:15:45+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Limited availability of sugar-free options in smaller towns.",
+            "created_time": "2024-04-10T09:30:20+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Their Avurudu special edition products were fantastic! 🎊",
+            "created_time": "2024-04-14T14:45:35+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Mobile app keeps logging out during payment process.",
+            "created_time": "2024-03-16T11:20:50+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "The new spicy chicken sausages are perfectly seasoned! 🌶️",
+            "created_time": "2024-05-13T16:35:25+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Product labels need clearer nutritional information.",
+            "created_time": "2024-04-28T13:50:40+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Birthday party catering package was a huge hit with kids! 🎂",
+            "created_time": "2024-05-04T10:15:15+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Recent change in cream soda recipe isn't good.",
+            "created_time": "2024-03-24T15:30:30+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Love the new returnable glass bottle initiative! Eco-friendly! ♻️",
+            "created_time": "2024-05-02T12:45:45+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Wholesale pricing needs to be more competitive.",
+            "created_time": "2024-04-16T09:20:20+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "The new Vesak special menu items are creative and delicious! 🎋",
+            "created_time": "2024-05-23T14:35:35+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Drive-through service is consistently slow.",
+            "created_time": "2024-03-19T11:50:50+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Their community outreach programs are making real difference! 🤝",
+            "created_time": "2024-05-01T16:15:25+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Ice cream cake quality has declined recently.",
+            "created_time": "2024-04-24T13:30:40+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "The new QR code nutrition info system is so convenient! 📱",
+            "created_time": "2024-05-06T10:45:15+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Home delivery minimum order value is too high.",
+            "created_time": "2024-03-26T15:20:30+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Their school nutrition program deserves recognition! 🏫",
+            "created_time": "2024-05-03T12:35:45+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Website frequently shows outdated product information.",
+            "created_time": "2024-04-30T09:50:20+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "The new vitamin-enriched drink range is refreshing! 💪",
+            "created_time": "2024-05-24T14:15:35+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Partnered with Elephant House for our hospital cafeteria management. Their B2B service team is exceptional in maintaining consistent supply and quality standards. The customized beverage dispensers work perfectly in our setting.",
+            "created_time": "2024-05-15T09:22:10+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Used their event management services for a large corporate gathering (500+ people). Professional setup of mobile ice cream stations and branded beverage corners. Impressive logistics!",
+            "created_time": "2024-04-18T14:15:30+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Very disappointed with their school canteen management program. Frequent stockouts and poor variety in the healthy options menu. Not suitable for educational institutions.",
+            "created_time": "2024-03-25T11:45:22+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Our hotel chain has been using their bulk supply services for 3 years. Recently, their ordering portal has become unreliable with frequent crashes. Affecting our inventory management.",
+            "created_time": "2024-05-10T16:33:45+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Their cinema concession management is outstanding! The new digital ordering kiosks have reduced waiting times significantly. Great revenue sharing model too.",
+            "created_time": "2024-04-22T08:20:15+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Engaged them for sports event sponsorship. Their brand activation team went above and beyond with creative setups and sampling stations. Perfect execution! 🏆",
+            "created_time": "2024-05-18T13:40:25+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Terrible experience with their restaurant supply chain management. Multiple delivery delays caused us significant losses during peak season.",
+            "created_time": "2024-03-30T15:55:40+0000",
+            "rating": 1
+        },
+        {
+            "review_text": "The new B2B client portal is a game changer! Easy bulk ordering, real-time tracking, and automated inventory alerts. Perfect for our supermarket chain.",
+            "created_time": "2024-05-20T17:10:30+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Using their vending machine services in our office complex. Frequent technical issues and poor maintenance response times.",
+            "created_time": "2024-04-28T10:25:15+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Fantastic partnership for our theme park operations. Their custom-branded ice cream carts and trained staff added great value to our visitor experience! 🎡",
+            "created_time": "2024-05-12T12:30:45+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Corporate gifting service needs improvement. Limited customization options and delayed deliveries during holiday season.",
+            "created_time": "2024-04-15T14:20:30+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Their university campus food court management has transformed our dining experience! Love the new digital payment integration and student discount program. 🎓",
+            "created_time": "2024-05-22T09:15:20+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Wedding event catering service was disappointing. Ice cream cart staff was unprofessional and serving sizes were inconsistent.",
+            "created_time": "2024-03-28T16:40:25+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Excellent sports facility partnership program! Their hydration stations and recovery drink selections are perfect for our gym chain. 💪",
+            "created_time": "2024-05-08T11:25:35+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Industrial canteen management service is mediocre. Limited menu rotation and frequent equipment breakdowns.",
+            "created_time": "2024-04-25T13:50:20+0000",
+            "rating": 3
+        },
+        {
+            "review_text": "Their beach hotel F&B service package is comprehensive! Great selection of specially designed beach-friendly packaging and mobile cooling solutions. 🏖️",
+            "created_time": "2024-05-16T10:30:45+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Poor experience with their shopping mall kiosk franchise program. Inadequate training and operational support.",
+            "created_time": "2024-03-22T15:20:30+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Innovative solution for our drive-in cinema! Their car hop service and special packaging made the experience unique. Customers love it! 🚗🎬",
+            "created_time": "2024-05-21T14:15:25+0000",
+            "rating": 5
+        },
+        {
+            "review_text": "Festival event partnership was challenging. Their mobile units couldn't handle the crowd volume efficiently.",
+            "created_time": "2024-04-20T12:40:35+0000",
+            "rating": 2
+        },
+        {
+            "review_text": "Outstanding airline catering service! Their special pressurized packaging and portion control is perfect for in-flight service. ✈️",
+            "created_time": "2024-05-19T09:25:20+0000",
+            "rating": 5
+        }
+    ],
+    "slt": [
+        {
+            "review_text": "The fiber internet speed is amazing! Getting consistent 100Mbps which is perfect for work from home and streaming.",
+            "rating": 5,
+            "created_time": "2024-08-15T09:23:45+0000"
+        },
+        {
+            "review_text": "Mobile coverage is very poor in Kandy area. Keeps dropping calls.",
+            "rating": 2,
+            "created_time": "2023-12-10T14:30:22+0000"
+        },
+        {
+            "review_text": "Recently upgraded to their 5G service in Colombo. The speeds are incredible!",
+            "created_time": "2024-07-22T11:15:33+0000"
+        },
+        {
+            "rating": 4,
+            "review_text": "Fixed line service has been reliable for years. Good old dependable SLT.",
+            "created_time": "2023-09-05T16:45:12+0000"
+        },
+        {
+            "review_text": "Their new mobile app makes bill payments so convenient. Really impressed with the digital transformation.",
+            "rating": 5,
+            "created_time": "2024-09-01T08:20:15+0000"
+        },
+        {
+            "review_text": "Internet disconnects frequently in Galle area. Had to call support multiple times.",
+            "rating": 2,
+            "created_time": "2024-05-18T13:40:25+0000"
+        },
+        {
+            "review_text": "TV service quality is excellent. Love the channel package options.",
+            "created_time": "2024-08-30T19:12:33+0000"
+        },
+        {
+            "rating": 3,
+            "review_text": "Average service. Nothing special but gets the job done.",
+            "created_time": "2024-02-14T10:25:45+0000"
+        },
+        {
+            "review_text": "Corporate internet service has been fantastic. Great for our business needs.",
+            "rating": 5,
+            "created_time": "2024-06-20T15:55:18+0000"
+        },
+        {
+            "review_text": "Customer service needs improvement. Waited 45 minutes for a response.",
+            "rating": 2,
+            "created_time": "2023-08-12T09:30:40+0000"
+        },
+        {
+            "review_text": "The new 5G coverage in Negombo is spotty at best.",
+            "created_time": "2024-08-28T12:15:22+0000"
+        },
+        {
+            "rating": 4,
+            "review_text": "Decent internet speeds in Batticaloa. Happy with the service.",
+            "created_time": "2024-10-05T14:20:33+0000"
+        },
+        {
+            "review_text": "Mobile data packages are too expensive compared to other providers.",
+            "rating": 2,
+            "created_time": "2024-07-11T16:35:45+0000"
+        },
+        {
+            "review_text": "Fixed line installation was quick and professional.",
+            "rating": 5,
+            "created_time": "2024-04-25T11:45:18+0000"
+        },
+        {
+            "review_text": "Business solutions team provided excellent support for our office setup.",
+            "created_time": "2024-08-15T08:50:30+0000"
+        },
+        {
+            "rating": 1,
+            "review_text": "Terrible customer service in Jaffna branch. Nobody responds to complaints.",
+            "created_time": "2024-08-30T13:25:42+0000"
+        },
+        {
+            "review_text": "The Wi-Fi router they provided keeps restarting randomly.",
+            "rating": 2,
+            "created_time": "2024-06-20T15:40:55+0000"
+        },
+        {
+            "review_text": "Online bill payment system is user-friendly and efficient.",
+            "rating": 5,
+            "created_time": "2024-09-05T10:15:28+0000"
+        },
+        {
+            "review_text": "Good coverage in remote areas of Anuradhapura.",
+            "created_time": "2023-12-22T12:30:40+0000"
+        },
+        {
+            "rating": 4,
+            "review_text": "Reliable service for video conferencing and remote work.",
+            "created_time": "2024-06-15T09:45:52+0000"
+        },
+        {
+            "review_text": "Their enterprise solutions have transformed our business operations.",
+            "rating": 5,
+            "created_time": "2024-03-10T14:20:15+0000"
+        },
+        {
+            "review_text": "Mobile network is congested during peak hours in Colombo.",
+            "rating": 3,
+            "created_time": "2023-09-28T17:35:27+0000"
+        },
+        {
+            "review_text": "Fixed line repair took over a week. Poor service.",
+            "created_time": "2024-08-05T11:50:39+0000"
+        },
+        {
+            "rating": 4,
+            "review_text": "Good value for money with their family package deals.",
+            "created_time": "2024-05-12T16:15:42+0000"
+        },
+        {
+            "review_text": "Internet speed is consistent in Matara area.",
+            "rating": 4,
+            "created_time": "2024-10-18T13:30:54+0000"
+        },
+        {
+            "review_text": "The new SLT-MOBITEL app is buggy and needs improvement.",
+            "rating": 2,
+            "created_time": "2024-07-25T15:45:07+0000"
+        },
+        {
+            "review_text": "Excellent coverage in Trincomalee beach area.",
+            "created_time": "2024-04-30T10:20:19+0000"
+        },
+        {
+            "rating": 5,
+            "review_text": "Business internet service has been rock solid for years.",
+            "created_time": "2024-08-08T12:35:31+0000"
+        },
+        {
+            "review_text": "Technical support team is knowledgeable and helpful.",
+            "rating": 4,
+            "created_time": "2024-08-20T14:50:43+0000"
+        },
+        {
+            "review_text": "Mobile data speeds are inconsistent in Kurunegala.",
+            "rating": 3,
+            "created_time": "2024-02-28T17:15:55+0000"
+        },
+        {
+            "review_text": "The TV channel package is overpriced for what you get.",
+            "created_time": "2023-12-05T09:30:07+0000"
+        },
+        {
+            "rating": 5,
+            "review_text": "5G service in Colombo central is lightning fast!",
+            "created_time": "2024-09-02T11:45:19+0000"
+        },
+        {
+            "review_text": "Fixed line installation team was professional and punctual.",
+            "rating": 4,
+            "created_time": "2024-06-15T14:00:31+0000"
+        },
+        {
+            "review_text": "Poor network coverage in Nuwara Eliya hills.",
+            "rating": 2,
+            "created_time": "2023-08-22T16:25:43+0000"
+        },
+        {
+            "review_text": "Internet packages are reasonably priced compared to competitors.",
+            "created_time": "2024-06-28T13:40:55+0000"
+        },
+        {
+            "rating": 3,
+            "review_text": "Average customer service experience at Gampaha branch.",
+            "created_time": "2024-03-25T15:55:07+0000"
+        },
+        {
+            "review_text": "The fiber optic installation was messy and unprofessional.",
+            "rating": 2,
+            "created_time": "2024-10-12T18:10:19+0000"
+        },
+        {
+            "review_text": "Great mobile coverage along Southern Expressway.",
+            "rating": 5,
+            "created_time": "2024-07-30T10:25:31+0000"
+        },
+        {
+            "review_text": "Business solutions team lacks proper communication.",
+            "created_time": "2024-04-15T12:40:43+0000"
+        },
+        {
+            "rating": 4,
+            "review_text": "Reliable internet service in Ratnapura area.",
+            "created_time": "2024-08-28T14:55:55+0000"
+        },
+        {
+            "review_text": "Mobile app keeps crashing after recent update.",
+            "rating": 2,
+            "created_time": "2024-08-10T17:10:07+0000"
+        },
+        {
+            "review_text": "Good customer support through their hotline.",
+            "rating": 4,
+            "created_time": "2024-05-05T09:25:19+0000"
+        },
+        {
+            "review_text": "Network coverage is excellent in Polonnaruwa.",
+            "created_time": "2023-09-15T11:40:31+0000"
+        },
+        {
+            "rating": 5,
+            "review_text": "The new fiber connection transformed our gaming experience!",
+            "created_time": "2024-08-25T13:55:43+0000"
+        },
+        {
+            "review_text": "TV service keeps buffering during peak hours.",
+            "rating": 2,
+            "created_time": "2024-06-30T16:10:55+0000"
+        },
+        {
+            "review_text": "Excellent corporate customer service and support.",
+            "rating": 5,
+            "created_time": "2023-12-18T18:25:07+0000"
+        },
+        {
+            "review_text": "Mobile coverage is weak inside buildings in Kadawatha.",
+            "created_time": "2024-06-05T10:40:19+0000"
+        },
+        {
+            "rating": 3,
+            "review_text": "Standard internet service, nothing extraordinary.",
+            "created_time": "2024-03-20T12:55:31+0000"
+        },
+        {
+            "review_text": "The combo packages offer good value for families.",
+            "rating": 4,
+            "created_time": "2024-10-25T15:10:43+0000"
+        },
+        {
+            "review_text": "Poor signal strength in Badulla region.",
+            "rating": 2,
+            "created_time": "2024-07-15T17:25:55+0000"
+        },
+        {
+            "review_text": "Quick response from technical support team.",
+            "rating": 4,
+            "created_time": "2024-04-08T19:40:07+0000"
+        },
+        {
+            "review_text": "PEO TV keeps freezing during live sports events. Very frustrating.",
+            "rating": 2,
+            "created_time": "2024-08-18T08:15:25+0000"
+        },
+        {
+            "review_text": "The 4G to 5G upgrade process was smooth and well-handled.",
+            "rating": 5,
+            "created_time": "2024-08-05T13:40:12+0000"
+        },
+        {
+            "review_text": "Billing system often shows incorrect charges. Takes forever to resolve.",
+            "created_time": "2024-07-12T15:22:33+0000"
+        },
+        {
+            "rating": 4,
+            "review_text": "Home fiber installation in Dehiwala was completed within 24 hours!",
+            "created_time": "2023-09-28T10:35:42+0000"
+        },
+        {
+            "review_text": "International calling rates are too high compared to other providers.",
+            "rating": 2,
+            "created_time": "2024-06-15T11:18:55+0000"
+        },
+        {
+            "review_text": "WiFi mesh system works perfectly throughout our three-story house.",
+            "rating": 5,
+            "created_time": "2024-03-22T14:45:30+0000"
+        },
+        {
+            "review_text": "Mobile signal is non-existent in Hatton tea estates.",
+            "created_time": "2023-12-08T16:30:15+0000"
+        },
+        {
+            "rating": 3,
+            "review_text": "Data roaming service is mediocre at best.",
+            "created_time": "2024-08-30T09:25:48+0000"
+        },
+        {
+            "review_text": "Business VPN service has transformed our remote work setup.",
+            "rating": 5,
+            "created_time": "2024-02-14T12:50:22+0000"
+        },
+        {
+            "review_text": "Fixed line repair team in Matale is understaffed and slow.",
+            "rating": 2,
+            "created_time": "2024-10-20T15:15:33+0000"
+        },
+        {
+            "review_text": "The new prepaid packages offer great value for students.",
+            "created_time": "2024-09-01T08:40:18+0000"
+        },
+        {
+            "rating": 4,
+            "review_text": "Cloud storage service is reliable and user-friendly.",
+            "created_time": "2023-08-25T13:22:45+0000"
+        },
+        {
+            "review_text": "Frequent disconnections during video conferences in Kotte area.",
+            "rating": 2,
+            "created_time": "2024-07-18T16:55:30+0000"
+        },
+        {
+            "review_text": "The parental control features on PEO TV are excellent.",
+            "rating": 5,
+            "created_time": "2024-04-30T11:30:25+0000"
+        },
+        {
+            "review_text": "Network coverage at Katunayake airport has improved significantly.",
+            "created_time": "2024-08-12T14:15:40+0000"
+        },
+        {
+            "rating": 1,
+            "review_text": "Worst customer service experience at Mount Lavinia branch.",
+            "created_time": "2024-08-05T17:42:15+0000"
+        },
+        {
+            "review_text": "Smart home solutions are overpriced and complicated to set up.",
+            "rating": 2,
+            "created_time": "2024-06-28T10:33:50+0000"
+        },
+        {
+            "review_text": "5G coverage in Kollupitiya is exceptional.",
+            "rating": 5,
+            "created_time": "2024-06-22T13:18:25+0000"
+        },
+        {
+            "review_text": "Internet bandwidth throttling during peak hours is annoying.",
+            "created_time": "2023-12-15T15:45:30+0000"
+        },
+        {
+            "rating": 4,
+            "review_text": "Mobile app's budget tracking feature is very helpful.",
+            "created_time": "2024-05-08T09:20:45+0000"
+        },
+        {
+            "review_text": "Corporate helpline staff are well-trained and professional.",
+            "rating": 5,
+            "created_time": "2024-03-15T12:55:18+0000"
+        },
+        {
+            "review_text": "Signal strength in Dambulla caves area needs improvement.",
+            "rating": 2,
+            "created_time": "2023-09-30T16:40:33+0000"
+        },
+        {
+            "review_text": "Online chat support resolved my issue within minutes.",
+            "created_time": "2024-08-12T11:15:45+0000"
+        },
+        {
+            "rating": 4,
+            "review_text": "Fiber speeds in Nugegoda are consistently good.",
+            "created_time": "2024-02-25T14:30:22+0000"
+        },
+        {
+            "review_text": "Voice call quality has degraded in recent months.",
+            "rating": 3,
+            "created_time": "2024-10-18T17:25:38+0000"
+        },
+        {
+            "review_text": "The new SLT office in Panadura is well-organized.",
+            "rating": 4,
+            "created_time": "2024-07-30T10:50:15+0000"
+        },
+        {
+            "review_text": "Poor connectivity during power outages despite backup promises.",
+            "created_time": "2024-04-12T13:35:30+0000"
+        },
+        {
+            "rating": 5,
+            "review_text": "Gaming servers provide excellent ping rates.",
+            "created_time": "2024-08-25T16:20:45+0000"
+        },
+        {
+            "review_text": "Installation team damaged our wall and refused to repair it.",
+            "rating": 1,
+            "created_time": "2024-08-28T09:45:22+0000"
+        },
+        {
+            "review_text": "Digital payment options are convenient and secure.",
+            "rating": 4,
+            "created_time": "2024-06-15T12:30:38+0000"
+        },
+        {
+            "review_text": "Mobile coverage at Sigiriya summit is surprisingly good.",
+            "rating": 5,
+            "created_time": "2023-12-28T15:15:50+0000"
+        },
+        {
+            "review_text": "Frequent billing errors for international calls.",
+            "created_time": "2024-06-10T18:40:15+0000"
+        },
+        {
+            "rating": 3,
+            "review_text": "Average service at Kalutara branch, long waiting times.",
+            "created_time": "2024-03-05T11:25:30+0000"
+        },
+        {
+            "review_text": "Network congestion during New Year festival was terrible.",
+            "rating": 2,
+            "created_time": "2024-04-15T14:50:45+0000"
+        },
+        {
+            "review_text": "Business solutions team provided excellent training.",
+            "rating": 5,
+            "created_time": "2023-09-20T17:35:22+0000"
+        },
+        {
+            "review_text": "SMS delivery delays are becoming more frequent.",
+            "created_time": "2024-08-22T10:20:38+0000"
+        },
+        {
+            "rating": 4,
+            "review_text": "Home security camera system works flawlessly.",
+            "created_time": "2024-02-08T13:45:50+0000"
+        },
+        {
+            "review_text": "Poor coverage in Wellawatta apartment complexes.",
+            "rating": 2,
+            "created_time": "2024-08-15T16:30:15+0000"
+        },
+        {
+            "review_text": "The loyalty program rewards are worth it.",
+            "rating": 5,
+            "created_time": "2024-07-25T09:15:30+0000"
+        },
+        {
+            "review_text": "Technical support team lacks product knowledge.",
+            "created_time": "2024-05-18T12:40:45+0000"
+        },
+        {
+            "rating": 3,
+            "review_text": "Mediocre TV channel selection compared to competitors.",
+            "created_time": "2024-10-30T15:25:22+0000"
+        },
+        {
+            "review_text": "WiFi calling feature works great when abroad.",
+            "rating": 4,
+            "created_time": "2024-08-15T18:50:38+0000"
+        },
+        {
+            "review_text": "Constant issues with fiber connection in rainy season.",
+            "rating": 2,
+            "created_time": "2024-06-22T11:35:50+0000"
+        },
+        {
+            "review_text": "The new entertainment package is excellent value.",
+            "rating": 5,
+            "created_time": "2023-12-05T14:20:15+0000"
+        },
+        {
+            "review_text": "Mobile data coverage at Bandaranaike Hall is poor.",
+            "created_time": "2024-06-28T17:45:30+0000"
+        },
+        {
+            "rating": 4,
+            "review_text": "Quick resolution for billing dispute at Maharagama branch.",
+            "created_time": "2024-03-12T10:30:45+0000"
+        },
+        {
+            "review_text": "The fiber modem they provided is very reliable.",
+            "rating": 5,
+            "created_time": "2023-09-25T13:15:22+0000"
+        },
+        {
+            "review_text": "Poor coordination between sales and technical teams.",
+            "rating": 2,
+            "created_time": "2024-08-08T16:40:38+0000"
+        },
+        {
+            "review_text": "Online payment system often has maintenance issues.",
+            "created_time": "2024-04-20T09:25:50+0000"
+        },
+        {
+            "rating": 4,
+            "review_text": "Good coverage throughout Hambantota port area.",
+            "created_time": "2024-08-02T12:50:15+0000"
+        },
+        {
+            "review_text": "The new unlimited data packages are reasonably priced.",
+            "rating": 5,
+            "created_time": "2024-07-15T15:35:30+0000"
+        },
+        {
+            "review_text": "Their IoT solutions for agriculture monitoring are revolutionary.",
+            "rating": 5,
+            "created_time": "2024-08-20T09:15:25+0000"
+        },
+        {
+            "review_text": "SLT's cybersecurity package for small businesses needs improvement.",
+            "rating": 3,
+            "created_time": "2024-08-08T14:30:12+0000"
+        },
+        {
+            "review_text": "The vehicle tracking system works perfectly for our delivery fleet.",
+            "created_time": "2024-07-15T16:45:33+0000"
+        },
+        {
+            "rating": 4,
+            "review_text": "Their cloud PBX system has transformed our call center operations.",
+            "created_time": "2023-09-30T11:20:42+0000"
+        },
+        {
+            "review_text": "Digital advertising displays service is overpriced for small shops.",
+            "rating": 2,
+            "created_time": "2024-06-18T12:35:55+0000"
+        },
+        {
+            "review_text": "The educational content package on PEO TV is excellent for kids.",
+            "rating": 5,
+            "created_time": "2024-03-25T15:50:30+0000"
+        },
+        {
+            "review_text": "SLT's e-commerce payment gateway integration is complicated.",
+            "created_time": "2023-12-10T17:25:15+0000"
+        },
+        {
+            "rating": 2,
+            "review_text": "Hotel WiFi management system frequently crashes.",
+            "created_time": "2024-08-28T10:40:48+0000"
+        },
+        {
+            "review_text": "The virtual meeting room service is perfect for our board meetings.",
+            "rating": 5,
+            "created_time": "2024-02-17T13:15:22+0000"
+        },
+        {
+            "review_text": "Smart parking solution implementation was a disaster.",
+            "rating": 1,
+            "created_time": "2024-10-22T16:30:33+0000"
+        },
+        {
+            "review_text": "Their disaster recovery backup service saved our business data.",
+            "created_time": "2024-09-02T09:45:18+0000"
+        },
+        {
+            "rating": 4,
+            "review_text": "Mobile point-of-sale system works great for our restaurant.",
+            "created_time": "2023-08-28T14:20:45+0000"
+        },
+        {
+            "review_text": "Building management system integration was poorly handled.",
+            "rating": 2,
+            "created_time": "2024-07-20T17:35:30+0000"
+        },
+        {
+            "review_text": "The remote healthcare monitoring system is reliable.",
+            "rating": 5,
+            "created_time": "2024-05-02T12:50:25+0000"
+        },
+        {
+            "review_text": "Smart electricity metering service has reduced our costs.",
+            "created_time": "2024-08-15T15:15:40+0000"
+        },
+        {
+            "rating": 2,
+            "review_text": "Video surveillance system often loses connection.",
+            "created_time": "2024-08-08T18:30:15+0000"
+        },
+        {
+            "review_text": "Digital signage content management is not user-friendly.",
+            "rating": 3,
+            "created_time": "2024-06-30T11:45:50+0000"
+        },
+        {
+            "review_text": "The automated warehouse management system is excellent.",
+            "rating": 5,
+            "created_time": "2024-06-25T14:20:25+0000"
+        },
+        {
+            "review_text": "Smart classroom solution needs better technical support.",
+            "created_time": "2023-12-18T16:35:30+0000"
+        },
+        {
+            "rating": 4,
+            "review_text": "Their API integration service was smooth and professional.",
+            "created_time": "2024-05-10T10:50:45+0000"
+        },
+        {
+            "review_text": "Environmental monitoring system provides accurate data.",
+            "rating": 5,
+            "created_time": "2024-03-18T13:15:18+0000"
+        },
+        {
+            "review_text": "Queue management system at our bank branch keeps failing.",
+            "rating": 2,
+            "created_time": "2024-10-02T17:30:33+0000"
+        },
+        {
+            "review_text": "The AI-powered chatbot has improved our customer service.",
+            "created_time": "2024-08-15T12:45:45+0000"
+        },
+        {
+            "rating": 4,
+            "review_text": "Smart retail analytics have helped optimize our inventory.",
+            "created_time": "2024-02-28T15:20:22+0000"
+        },
+        {
+            "review_text": "Industrial IoT sensors are unreliable in humid conditions.",
+            "rating": 2,
+            "created_time": "2024-10-20T18:35:38+0000"
+        },
+        {
+            "review_text": "The document management system is well-designed.",
+            "rating": 5,
+            "created_time": "2024-07-28T11:50:15+0000"
+        },
+        {
+            "review_text": "Mobile workforce management app needs updating.",
+            "created_time": "2024-04-15T14:15:30+0000"
+        },
+        {
+            "rating": 4,
+            "review_text": "Conference room booking system is efficient.",
+            "created_time": "2024-08-28T17:30:45+0000"
+        },
+        {
+            "review_text": "Smart irrigation control system saved our farm.",
+            "rating": 5,
+            "created_time": "2024-08-25T10:45:22+0000"
+        },
+        {
+            "review_text": "Digital menu board system is not worth the cost.",
+            "rating": 2,
+            "created_time": "2024-06-18T13:20:38+0000"
+        },
+        {
+            "review_text": "Visitor management system works flawlessly.",
+            "rating": 5,
+            "created_time": "2023-12-30T16:15:50+0000"
+        },
+        {
+            "review_text": "Energy management system data is often inaccurate.",
+            "created_time": "2024-06-12T19:30:15+0000"
+        },
+        {
+            "rating": 3,
+            "review_text": "Healthcare information system needs better security.",
+            "created_time": "2024-03-08T12:45:30+0000"
+        },
+        {
+            "review_text": "Asset tracking system battery life is too short.",
+            "rating": 2,
+            "created_time": "2024-04-18T15:20:45+0000"
+        },
+        {
+            "review_text": "The smart tourism guide app is innovative.",
+            "rating": 5,
+            "created_time": "2023-09-22T18:35:22+0000"
+        },
+        {
+            "review_text": "Their blockchain solution for supply chain is complex.",
+            "created_time": "2024-08-20T11:50:38+0000"
+        },
+        {
+            "rating": 4,
+            "review_text": "Weather monitoring station network is reliable.",
+            "created_time": "2024-02-10T14:15:50+0000"
+        },
+        {
+            "review_text": "Smart waste management system often malfunctions.",
+            "rating": 2,
+            "created_time": "2024-08-18T17:30:15+0000"
+        },
+        {
+            "review_text": "The fleet management dashboard is user-friendly.",
+            "rating": 5,
+            "created_time": "2024-07-22T10:45:30+0000"
+        },
+        {
+            "review_text": "Public WiFi management needs better security.",
+            "created_time": "2024-05-20T13:20:45+0000"
+        },
+        {
+            "rating": 3,
+            "review_text": "Smart parking guidance system is often inaccurate.",
+            "created_time": "2024-08-01T16:35:22+0000"
+        },
+        {
+            "review_text": "Remote asset monitoring saved us maintenance costs.",
+            "rating": 4,
+            "created_time": "2024-08-18T19:50:38+0000"
+        },
+        {
+            "review_text": "Digital twin implementation was poorly executed.",
+            "rating": 2,
+            "created_time": "2024-06-25T12:15:50+0000"
+        },
+        {
+            "review_text": "The smart street lighting control works perfectly.",
+            "rating": 5,
+            "created_time": "2023-12-08T15:30:15+0000"
+        },
+        {
+            "review_text": "Industrial automation interface is complicated.",
+            "created_time": "2024-06-30T18:45:30+0000"
+        },
+        {
+            "rating": 4,
+            "review_text": "Smart water metering system is cost-effective.",
+            "created_time": "2024-03-15T11:20:45+0000"
+        },
+        {
+            "review_text": "The autonomous vehicle testing network is impressive.",
+            "rating": 5,
+            "created_time": "2023-09-28T14:35:22+0000"
+        },
+        {
+            "review_text": "Warehouse robotics integration had many issues.",
+            "rating": 2,
+            "created_time": "2024-08-10T17:50:38+0000"
+        },
+        {
+            "review_text": "Smart traffic management system needs improvement.",
+            "created_time": "2024-04-22T10:15:50+0000"
+        },
+        {
+            "rating": 4,
+            "review_text": "The predictive maintenance system works well.",
+            "created_time": "2024-08-05T13:30:15+0000"
+        },
+        {
+            "review_text": "Their quantum-safe encryption service is revolutionary.",
+            "rating": 5,
+            "created_time": "2024-07-18T16:45:30+0000"
+        },
+        {
+            "review_text": "Mobile signal drops every time it rains in Malabe area.",
+            "rating": 2,
+            "created_time": "2024-08-22T09:15:25+0000"
+        },
+        {
+            "review_text": "Fixed line has been working flawlessly for 15 years. No complaints!",
+            "rating": 5,
+            "created_time": "2024-08-10T14:30:12+0000"
+        },
+        {
+            "review_text": "PEO TV freezes during cricket matches. Very disappointing.",
+            "created_time": "2024-07-18T16:45:33+0000"
+        },
+        {
+            "rating": 4,
+            "review_text": "Mobile data speeds in Pettah market area are surprisingly good.",
+            "created_time": "2023-09-25T11:20:42+0000"
+        },
+        {
+            "review_text": "Landline repair took 3 weeks in Moratuwa. Terrible service.",
+            "rating": 1,
+            "created_time": "2024-06-12T12:35:55+0000"
+        },
+        {
+            "review_text": "PEO TV's new movie collection is fantastic. Great family entertainment.",
+            "rating": 5,
+            "created_time": "2024-03-28T15:50:30+0000"
+        },
+        {
+            "review_text": "Mobile coverage at Kataragama temple is non-existent.",
+            "created_time": "2023-12-15T17:25:15+0000"
+        },
+        {
+            "rating": 2,
+            "review_text": "Fixed line keeps making static noise during calls.",
+            "created_time": "2024-08-30T10:40:48+0000"
+        },
+        {
+            "review_text": "PEO TV's educational channels helped my kids during exams.",
+            "rating": 5,
+            "created_time": "2024-02-20T13:15:22+0000"
+        },
+        {
+            "review_text": "Mobile internet package prices are too high for students.",
+            "rating": 2,
+            "created_time": "2024-10-28T16:30:33+0000"
+        },
+        {
+            "review_text": "Landline installation team was professional and quick.",
+            "created_time": "2024-09-05T09:45:18+0000"
+        },
+        {
+            "rating": 1,
+            "review_text": "PEO TV remote stopped working, replacement took 2 weeks.",
+            "created_time": "2023-08-30T14:20:45+0000"
+        },
+        {
+            "review_text": "Mobile signal in Ella town has improved greatly.",
+            "rating": 4,
+            "created_time": "2024-07-25T17:35:30+0000"
+        },
+        {
+            "review_text": "Fixed line bill keeps showing incorrect charges.",
+            "rating": 2,
+            "created_time": "2024-05-05T12:50:25+0000"
+        },
+        {
+            "review_text": "PEO TV's Sinhala movie collection needs updating.",
+            "created_time": "2024-08-18T15:15:40+0000"
+        },
+        {
+            "rating": 5,
+            "review_text": "Mobile 5G in Colombo 7 is lightning fast!",
+            "created_time": "2024-08-10T18:30:15+0000"
+        },
+        {
+            "review_text": "Landline dead during power cuts despite their promises.",
+            "rating": 2,
+            "created_time": "2024-06-28T11:45:50+0000"
+        },
+        {
+            "review_text": "PEO TV's sports package is worth every rupee.",
+            "rating": 5,
+            "created_time": "2024-06-22T14:20:25+0000"
+        },
+        {
+            "review_text": "Mobile coverage at Bandaranaike airport is spotty.",
+            "created_time": "2023-12-20T16:35:30+0000"
+        },
+        {
+            "rating": 3,
+            "review_text": "Fixed line voice quality is average at best.",
+            "created_time": "2024-05-15T10:50:45+0000"
+        },
+        {
+            "review_text": "PEO TV's program guide is not user-friendly.",
+            "rating": 2,
+            "created_time": "2024-03-20T13:15:18+0000"
+        },
+        {
+            "review_text": "Mobile data signal at Galle Fort is excellent now.",
+            "rating": 5,
+            "created_time": "2024-10-05T17:30:33+0000"
+        },
+        {
+            "review_text": "Landline technician fixed the issue in 30 minutes!",
+            "created_time": "2024-08-18T12:45:45+0000"
+        },
+        {
+            "rating": 1,
+            "review_text": "PEO TV picture quality degrades every evening.",
+            "created_time": "2024-02-25T15:20:22+0000"
+        },
+        {
+            "review_text": "Mobile signal in Nuwara Eliya town center is weak.",
+            "rating": 2,
+            "created_time": "2024-10-22T18:35:38+0000"
+        },
+        {
+            "review_text": "Fixed line connection perfect for work from home.",
+            "rating": 5,
+            "created_time": "2024-07-30T11:50:15+0000"
+        },
+        {
+            "review_text": "PEO TV's Tamil channel selection is limited.",
+            "created_time": "2024-04-18T14:15:30+0000"
+        },
+        {
+            "rating": 4,
+            "review_text": "Mobile coverage along Southern expressway improved.",
+            "created_time": "2024-08-30T17:30:45+0000"
+        },
+        {
+            "review_text": "Landline number porting process was smooth.",
+            "rating": 5,
+            "created_time": "2024-08-28T10:45:22+0000"
+        },
+        {
+            "review_text": "PEO TV keeps buffering despite good internet.",
+            "rating": 2,
+            "created_time": "2024-06-20T13:20:38+0000"
+        },
+        {
+            "review_text": "Mobile signal at Mihintale temple is strong.",
+            "rating": 4,
+            "created_time": "2023-12-28T16:15:50+0000"
+        },
+        {
+            "review_text": "Fixed line customer service is unresponsive.",
+            "created_time": "2024-06-15T19:30:15+0000"
+        },
+        {
+            "rating": 5,
+            "review_text": "PEO TV's kids channels are educational and fun.",
+            "created_time": "2024-03-10T12:45:30+0000"
+        },
+        {
+            "review_text": "Mobile data package activation is complicated.",
+            "rating": 2,
+            "created_time": "2024-04-20T15:20:45+0000"
+        },
+        {
+            "review_text": "Landline service restored quickly after storm.",
+            "rating": 5,
+            "created_time": "2023-09-25T18:35:22+0000"
+        },
+        {
+            "review_text": "PEO TV's international news channels buffer a lot.",
+            "created_time": "2024-08-22T11:50:38+0000"
+        },
+        {
+            "rating": 3,
+            "review_text": "Mobile coverage in Matara beach area is average.",
+            "created_time": "2024-02-12T14:15:50+0000"
+        },
+        {
+            "review_text": "Fixed line keeps disconnecting during calls.",
+            "rating": 2,
+            "created_time": "2024-08-20T17:30:15+0000"
+        },
+        {
+            "review_text": "PEO TV's video on demand service is excellent.",
+            "rating": 5,
+            "created_time": "2024-07-25T10:45:30+0000"
+        },
+        {
+            "review_text": "Mobile signal inside Crescat mall is poor.",
+            "created_time": "2024-05-22T13:20:45+0000"
+        },
+        {
+            "rating": 4,
+            "review_text": "Landline package for seniors is good value.",
+            "created_time": "2024-08-05T16:35:22+0000"
+        },
+        {
+            "review_text": "PEO TV's religious channel quality is excellent.",
+            "rating": 5,
+            "created_time": "2024-08-15T19:50:38+0000"
+        },
+        {
+            "review_text": "Mobile data runs out too quickly on YouTube.",
+            "rating": 2,
+            "created_time": "2024-06-28T12:15:50+0000"
+        },
+        {
+            "review_text": "Fixed line helped during internet outage.",
+            "rating": 5,
+            "created_time": "2023-12-10T15:30:15+0000"
+        },
+        {
+            "review_text": "PEO TV's recording feature never works properly.",
+            "created_time": "2024-06-28T18:45:30+0000"
+        },
+        {
+            "rating": 1,
+            "review_text": "Mobile connection drops during train journey.",
+            "created_time": "2024-03-18T11:20:45+0000"
+        },
+        {
+            "review_text": "Landline clarity is perfect for conference calls.",
+            "rating": 5,
+            "created_time": "2023-09-30T14:35:22+0000"
+        },
+        {
+            "review_text": "PEO TV's local news channels are always clear.",
+            "rating": 4,
+            "created_time": "2024-08-12T17:50:38+0000"
+        },
+        {
+            "review_text": "Mobile signal weak in Pelawatta apartment complex.",
+            "created_time": "2024-04-25T10:15:50+0000"
+        },
+        {
+            "rating": 3,
+            "review_text": "Fixed line bill payment system often offline.",
+            "created_time": "2024-08-08T13:30:15+0000"
+        },
+        {
+            "review_text": "PEO TV's movie rental prices are reasonable.",
+            "rating": 4,
+            "created_time": "2024-07-20T16:45:30+0000"
+        },
+        {
+            "review_text": "Mobile signal keeps dropping at Rajagiriya flyover.",
+            "rating": 2,
+            "created_time": "2024-08-24T08:15:25+0000"
+        },
+        {
+            "review_text": "Landline worked perfectly during recent floods. Lifesaver!",
+            "rating": 5,
+            "created_time": "2024-08-12T13:40:12+0000"
+        },
+        {
+            "review_text": "PEO TV's cricket match streaming is always delayed.",
+            "created_time": "2024-07-16T15:45:33+0000"
+        },
+        {
+            "rating": 1,
+            "review_text": "Mobile data speed terrible at Majestic City basement.",
+            "created_time": "2023-09-28T10:20:42+0000"
+        },
+        {
+            "review_text": "Fixed line installation damaged our garden.",
+            "rating": 2,
+            "created_time": "2024-06-14T11:35:55+0000"
+        },
+        {
+            "review_text": "PEO TV's Vesak special programs were excellent.",
+            "rating": 5,
+            "created_time": "2024-03-30T14:50:30+0000"
+        },
+        {
+            "review_text": "No mobile signal at Ragama hospital basement.",
+            "created_time": "2023-12-18T16:25:15+0000"
+        },
+        {
+            "rating": 4,
+            "review_text": "Landline connection survived lightning strike.",
+            "created_time": "2024-08-29T09:40:48+0000"
+        },
+        {
+            "review_text": "PEO TV's Big Match coverage was disappointing.",
+            "rating": 2,
+            "created_time": "2024-02-22T12:15:22+0000"
+        },
+        {
+            "review_text": "Mobile coverage at Diyawanna walking path improved.",
+            "rating": 4,
+            "created_time": "2024-10-25T15:30:33+0000"
+        },
+        {
+            "review_text": "Fixed line dead for a month in Kotahena.",
+            "created_time": "2024-09-03T08:45:18+0000"
+        },
+        {
+            "rating": 5,
+            "review_text": "PEO TV's Sinhala teledrama quality is excellent.",
+            "created_time": "2023-08-27T13:20:45+0000"
+        },
+        {
+            "review_text": "Mobile signal weak at Negombo beach hotels.",
+            "rating": 2,
+            "created_time": "2024-07-28T16:35:30+0000"
+        },
+        {
+            "review_text": "Landline perfect for my elderly parents' home.",
+            "rating": 5,
+            "created_time": "2024-05-08T11:50:25+0000"
+        },
+        {
+            "review_text": "PEO TV's cartoon channel buffering frustrates kids.",
+            "created_time": "2024-08-20T14:15:40+0000"
+        },
+        {
+            "rating": 2,
+            "review_text": "Mobile coverage patchy in Kirulapone area.",
+            "created_time": "2024-08-12T17:30:15+0000"
+        },
+        {
+            "review_text": "Fixed line technician was rude and unprofessional.",
+            "rating": 1,
+            "created_time": "2024-06-25T10:45:50+0000"
+        },
+        {
+            "review_text": "PEO TV's weekend movie marathons are great.",
+            "rating": 5,
+            "created_time": "2024-06-24T13:20:25+0000"
+        },
+        {
+            "review_text": "No mobile signal inside Kandy City Centre.",
+            "created_time": "2023-12-22T15:35:30+0000"
+        },
+        {
+            "rating": 4,
+            "review_text": "Landline saved us during internet blackout.",
+            "created_time": "2024-05-18T09:50:45+0000"
+        },
+        {
+            "review_text": "PEO TV resolution drops during evening hours.",
+            "rating": 3,
+            "created_time": "2024-03-22T12:15:18+0000"
+        },
+        {
+            "review_text": "Mobile data excellent at Gampaha bus stand.",
+            "rating": 4,
+            "created_time": "2024-10-08T16:30:33+0000"
+        },
+        {
+            "review_text": "Fixed line repair took ages in Ratmalana.",
+            "created_time": "2024-08-20T11:45:45+0000"
+        },
+        {
+            "rating": 5,
+            "review_text": "PEO TV's IPL coverage was uninterrupted.",
+            "created_time": "2024-02-24T14:20:22+0000"
+        },
+        {
+            "review_text": "Mobile signal weak near Victoria reservoir.",
+            "rating": 2,
+            "created_time": "2024-10-24T17:35:38+0000"
+        },
+        {
+            "review_text": "Landline crystal clear for overseas calls.",
+            "rating": 5,
+            "created_time": "2024-07-27T10:50:15+0000"
+        },
+        {
+            "review_text": "PEO TV subtitles often out of sync.",
+            "created_time": "2024-04-20T13:15:30+0000"
+        },
+        {
+            "rating": 1,
+            "review_text": "Mobile roaming didn't work in Thailand.",
+            "created_time": "2024-08-27T16:30:45+0000"
+        },
+        {
+            "review_text": "Fixed line number transfer was hassle-free.",
+            "rating": 5,
+            "created_time": "2024-08-26T09:45:22+0000"
+        },
+        {
+            "review_text": "PEO TV's breaking news alerts are helpful.",
+            "rating": 4,
+            "created_time": "2024-06-22T12:20:38+0000"
+        },
+        {
+            "review_text": "Mobile signal strong at Unawatuna beach.",
+            "rating": 5,
+            "created_time": "2023-12-25T15:15:50+0000"
+        },
+        {
+            "review_text": "Landline bill payment portal always down.",
+            "created_time": "2024-06-18T18:30:15+0000"
+        },
+        {
+            "rating": 2,
+            "review_text": "PEO TV remote buttons stopped working.",
+            "created_time": "2024-03-12T11:45:30+0000"
+        },
+        {
+            "review_text": "Mobile coverage poor at Wellawatte beach.",
+            "rating": 2,
+            "created_time": "2024-04-22T14:20:45+0000"
+        },
+        {
+            "review_text": "Fixed line essential for my pharmacy business.",
+            "rating": 5,
+            "created_time": "2023-09-28T17:35:22+0000"
+        },
+        {
+            "review_text": "PEO TV's discovery channel package worth it.",
+            "created_time": "2024-08-24T10:50:38+0000"
+        },
+        {
+            "rating": 3,
+            "review_text": "Mobile signal spotty in Horana town.",
+            "created_time": "2024-02-15T13:15:50+0000"
+        },
+        {
+            "review_text": "Landline connection fee is too expensive.",
+            "rating": 2,
+            "created_time": "2024-08-22T16:30:15+0000"
+        },
+        {
+            "review_text": "PEO TV's music channels have good variety.",
+            "rating": 4,
+            "created_time": "2024-07-23T09:45:30+0000"
+        },
+        {
+            "review_text": "Mobile data slow during Perahera season.",
+            "created_time": "2024-05-25T12:20:45+0000"
+        },
+        {
+            "rating": 5,
+            "review_text": "Fixed line service restored quickly after accident.",
+            "created_time": "2024-08-03T15:35:22+0000"
+        },
+        {
+            "review_text": "PEO TV's parental controls work well.",
+            "rating": 4,
+            "created_time": "2024-08-17T18:50:38+0000"
+        },
+        {
+            "review_text": "Mobile coverage weak at Kaduwela junction.",
+            "rating": 2,
+            "created_time": "2024-06-30T11:15:50+0000"
+        },
+        {
+            "review_text": "Landline voice quality perfect for radio interview.",
+            "rating": 5,
+            "created_time": "2023-12-12T14:30:15+0000"
+        },
+        {
+            "review_text": "PEO TV freezes during rainy weather.",
+            "created_time": "2024-06-25T17:45:30+0000"
+        },
+        {
+            "rating": 2,
+            "review_text": "Mobile signal drops in Borella apartment.",
+            "created_time": "2024-03-20T10:20:45+0000"
+        },
+        {
+            "review_text": "Fixed line helpful during family emergency.",
+            "rating": 5,
+            "created_time": "2023-09-27T13:35:22+0000"
+        },
+        {
+            "review_text": "PEO TV's election coverage was comprehensive.",
+            "rating": 4,
+            "created_time": "2024-08-14T16:50:38+0000"
+        },
+        {
+            "review_text": "Mobile coverage improved in Kottawa area.",
+            "created_time": "2024-04-28T09:15:50+0000"
+        },
+        {
+            "rating": 1,
+            "review_text": "Landline service terrible in Wattala.",
+            "created_time": "2024-08-10T12:30:15+0000"
+        },
+        {
+            "review_text": "PEO TV's program guide needs updating.",
+            "rating": 3,
+            "created_time": "2024-07-17T15:45:30+0000"
+        },
+        {
+            "review_text": "Mobile network congested during Sinhala New Year.",
+            "rating": 2,
+            "created_time": "2024-08-26T08:15:25+0000"
+        },
+        {
+            "review_text": "Landline connection survived the recent cyclone.",
+            "rating": 5,
+            "created_time": "2024-08-14T13:40:12+0000"
+        },
+        {
+            "review_text": "PEO TV's World Cup coverage was outstanding.",
+            "created_time": "2024-07-19T15:45:33+0000"
+        },
+        {
+            "rating": 2,
+            "review_text": "Mobile signal weak at Viharamahadevi Park.",
+            "created_time": "2023-09-30T10:20:42+0000"
+        },
+        {
+            "review_text": "Fixed line crackling noise during monsoon.",
+            "rating": 3,
+            "created_time": "2024-06-16T11:35:55+0000"
+        },
+        {
+            "review_text": "PEO TV's English movie selection needs updating.",
+            "rating": 2,
+            "created_time": "2024-04-01T14:50:30+0000"
+        },
+        {
+            "review_text": "No mobile signal inside Asiri Hospital.",
+            "created_time": "2023-12-20T16:25:15+0000"
+        },
+        {
+            "rating": 5,
+            "review_text": "Landline great for my online teaching job.",
+            "created_time": "2024-08-31T09:40:48+0000"
+        },
+        {
+            "review_text": "PEO TV's tennis channel always pixelated.",
+            "rating": 2,
+            "created_time": "2024-02-24T12:15:22+0000"
+        },
+        {
+            "review_text": "Mobile internet fast at Galle Face Green.",
+            "rating": 4,
+            "created_time": "2024-10-27T15:30:33+0000"
+        },
+        {
+            "review_text": "Landline dead after road construction.",
+            "rating": 1,
+            "created_time": "2024-09-05T08:45:18+0000"
+        },
+        {
+            "rating": 4,
+            "review_text": "PEO TV's local drama series collection growing.",
+            "created_time": "2023-08-29T13:20:45+0000"
+        },
+        {
+            "review_text": "Mobile signal improved at Tangalle beach.",
+            "rating": 5,
+            "created_time": "2024-07-30T16:35:30+0000"
+        },
+        {
+            "review_text": "Fixed line essential for my medical practice.",
+            "rating": 5,
+            "created_time": "2024-05-10T11:50:25+0000"
+        },
+        {
+            "review_text": "PEO TV keeps disconnecting during prime time.",
+            "created_time": "2024-08-22T14:15:40+0000"
+        },
+        {
+            "rating": 2,
+            "review_text": "Mobile data slow at Dambulla cricket stadium.",
+            "created_time": "2024-08-14T17:30:15+0000"
+        },
+        {
+            "review_text": "Landline service expensive for pensioners.",
+            "rating": 2,
+            "created_time": "2024-06-27T10:45:50+0000"
+        },
+        {
+            "review_text": "PEO TV's documentary channels worth the price.",
+            "rating": 5,
+            "created_time": "2024-06-26T13:20:25+0000"
+        },
+        {
+            "review_text": "Mobile signal weak at Kelaniya temple.",
+            "created_time": "2023-12-24T15:35:30+0000"
+        },
+        {
+            "rating": 1,
+            "review_text": "Fixed line buzzing noise never fixed.",
+            "created_time": "2024-05-20T09:50:45+0000"
+        },
+        {
+            "review_text": "PEO TV's Avurudu programs were excellent.",
+            "rating": 5,
+            "created_time": "2024-03-24T12:15:18+0000"
+        },
+        {
+            "review_text": "Mobile coverage poor at Kollupitiya station.",
+            "rating": 2,
+            "created_time": "2024-10-10T16:30:33+0000"
+        },
+        {
+            "review_text": "Landline repair team came same day! Impressed.",
+            "created_time": "2024-08-22T11:45:45+0000"
+        },
+        {
+            "rating": 3,
+            "review_text": "PEO TV's channel change delay annoying.",
+            "created_time": "2024-02-26T14:20:22+0000"
+        },
+        {
+            "review_text": "Mobile data excellent at Kurunegala bus stand.",
+            "rating": 4,
+            "created_time": "2024-10-26T17:35:38+0000"
+        },
+        {
+            "review_text": "Fixed line static during conference calls.",
+            "rating": 2,
+            "created_time": "2024-07-29T10:50:15+0000"
+        },
+        {
+            "review_text": "PEO TV's kids channels not working properly.",
+            "created_time": "2024-04-22T13:15:30+0000"
+        },
+        {
+            "rating": 5,
+            "review_text": "Mobile signal strong at Adams Peak summit!",
+            "created_time": "2024-08-29T16:30:45+0000"
+        },
+        {
+            "review_text": "Landline connection fee reasonable for business.",
+            "rating": 4,
+            "created_time": "2024-08-28T09:45:22+0000"
+        },
+        {
+            "review_text": "PEO TV's news updates very current.",
+            "rating": 5,
+            "created_time": "2024-06-24T12:20:38+0000"
+        },
+        {
+            "review_text": "Mobile coverage at Mirissa harbor improved.",
+            "rating": 4,
+            "created_time": "2023-12-27T15:15:50+0000"
+        },
+        {
+            "review_text": "Fixed line constant issues in Piliyandala.",
+            "created_time": "2024-06-20T18:30:15+0000"
+        },
+        {
+            "rating": 2,
+            "review_text": "PEO TV picture quality poor in bright rooms.",
+            "created_time": "2024-03-14T11:45:30+0000"
+        },
+        {
+            "review_text": "No mobile signal at Ratnapura gem mines.",
+            "rating": 1,
+            "created_time": "2024-04-24T14:20:45+0000"
+        },
+        {
+            "review_text": "Landline perfect for my real estate office.",
+            "rating": 5,
+            "created_time": "2023-09-30T17:35:22+0000"
+        },
+        {
+            "review_text": "PEO TV's movie schedule confusing.",
+            "created_time": "2024-08-26T10:50:38+0000"
+        },
+        {
+            "rating": 4,
+            "review_text": "Mobile signal great at Bentota beach.",
+            "created_time": "2024-02-17T13:15:50+0000"
+        },
+        {
+            "review_text": "Fixed line installation damaged wall paint.",
+            "rating": 2,
+            "created_time": "2024-08-24T16:30:15+0000"
+        },
+        {
+            "review_text": "PEO TV's religious programs diverse.",
+            "rating": 5,
+            "created_time": "2024-07-25T09:45:30+0000"
+        },
+        {
+            "review_text": "Mobile data slow during university lectures.",
+            "created_time": "2024-05-27T12:20:45+0000"
+        },
+        {
+            "rating": 3,
+            "review_text": "Landline bill higher than quoted.",
+            "created_time": "2024-08-05T15:35:22+0000"
+        },
+        {
+            "review_text": "PEO TV's regional news coverage excellent.",
+            "rating": 4,
+            "created_time": "2024-08-19T18:50:38+0000"
+        },
+        {
+            "review_text": "Mobile signal weak at Chilaw beach resort.",
+            "rating": 2,
+            "created_time": "2024-02-01T11:15:50+0000"
+        },
+        {
+            "review_text": "Fixed line saved my work-from-home job.",
+            "rating": 5,
+            "created_time": "2023-12-14T14:30:15+0000"
+        },
+        {
+            "review_text": "PEO TV's tech support very helpful.",
+            "created_time": "2024-06-27T17:45:30+0000"
+        },
+        {
+            "rating": 1,
+            "review_text": "Mobile coverage terrible at Matara fort.",
+            "created_time": "2024-03-22T10:20:45+0000"
+        },
+        {
+            "review_text": "Landline sounds clear like mobile.",
+            "rating": 5,
+            "created_time": "2023-09-29T13:35:22+0000"
+        },
+        {
+            "review_text": "PEO TV signal drops during heavy rain.",
+            "rating": 2,
+            "created_time": "2024-08-16T16:50:38+0000"
+        },
+        {
+            "review_text": "Mobile data great for online classes.",
+            "created_time": "2024-04-30T09:15:50+0000"
+        },
+        {
+            "rating": 4,
+            "review_text": "Landline works during internet outages.",
+            "created_time": "2024-08-12T12:30:15+0000"
+        },
+        {
+            "review_text": "PEO TV's language selection menu buggy.",
+            "rating": 2,
+            "created_time": "2024-07-19T15:45:30+0000"
+        },
+        {
+            "review_text": "Mobile signal strong at Pinnawala.",
+            "rating": 5,
+            "created_time": "2024-05-15T10:25:45+0000"
+        },
+        {
+            "review_text": "Fixed line quality drops during storms.",
+            "rating": 3,
+            "created_time": "2023-12-05T14:40:22+0000"
+        },
+        {
+            "review_text": "PEO TV's holiday specials are great.",
+            "rating": 4,
+            "created_time": "2024-08-08T17:55:35+0000"
+        },
+        {
+            "rating": 2,
+            "review_text": "Mobile internet slow at railway stations.",
+            "created_time": "2024-06-12T11:30:48+0000"
+        },
+        {
+            "review_text": "Landline perfect for elderly parents.",
+            "rating": 5,
+            "created_time": "2024-10-18T15:45:15+0000"
+        },
+        {
+            "review_text": "PEO TV's interactive features not working.",
+            "rating": 2,
+            "created_time": "2024-06-05T13:20:30+0000"
+        },
+        {
+            "review_text": "Mobile coverage improved in Hatton estates.",
+            "rating": 4,
+            "created_time": "2024-03-28T16:35:42+0000"
+        },
+        {
+            "rating": 1,
+            "review_text": "Fixed line disconnects during long calls.",
+            "created_time": "2024-08-25T19:50:55+0000"
+        },
+        {
+            "review_text": "PEO TV's HD channels crystal clear.",
+            "rating": 5,
+            "created_time": "2024-08-03T12:15:28+0000"
+        },
+        {
+            "review_text": "Mobile signal weak at Polonnaruwa ruins.",
+            "rating": 2,
+            "created_time": "2024-02-15T14:30:40+0000"
+        },
+        {
+            "review_text": "Landline customer service very patient.",
+            "rating": 5,
+            "created_time": "2023-12-30T17:45:33+0000"
+        },
+        {
+            "review_text": "PEO TV's replay function very useful.",
+            "rating": 4,
+            "created_time": "2024-07-11T10:10:25+0000"
+        }
+    ]
+}

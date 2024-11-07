@@ -1,0 +1,33 @@
+# docker-compose.yml
+services:
+  fastapi:
+    build:
+      context: .
+      dockerfile: api/Dockerfile
+    container_name: fastapi_service
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    volumes:
+      - ./api:/app
+    networks:
+      - app-network
+
+  streamlit:
+    build:
+      context: .
+      dockerfile: app/Dockerfile
+    container_name: streamlit_service
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    volumes:
+      - ./app:/app
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge

@@ -43,7 +43,7 @@ def create_review_prompt(company_name):
                 "sentiment": "<positive/negative/neutral>",
                 "confidence": <0-100>,
                 "themes": ["theme1", "theme2"],
-                "example_review": "<exact review text>"
+                "example_review": "<only review text>"
             }}
         ]
     }}
